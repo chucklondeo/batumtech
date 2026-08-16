@@ -1,0 +1,11 @@
+source_table,source_field,source_type,target_collection,target_field,transform,null_policy,validation,status,notes
+web_category,TBD,TBD,categories,legacyId,stringify source primary key,preserve null,unique per tenant,pending,"Awaiting SHOW CREATE TABLE"
+web_category,TBD,TBD,categories,name,decode source charset,reject null,non-empty,pending,"Awaiting source column name"
+web_category,TBD,TBD,categories,parent,map legacy category ID,preserve null,no cycles,pending,"Awaiting hierarchy fields"
+web_product,TBD,TBD,products,legacyId,stringify source primary key,preserve null,unique per tenant,pending,"Awaiting SHOW CREATE TABLE"
+web_product,TBD,TBD,products,title,decode source charset,reject null,non-empty,pending,"Awaiting source column name"
+web_product,TBD,TBD,products,content,parse and sanitize legacy HTML,preserve null,media links resolvable,pending,"Awaiting content sample"
+web_news,TBD,TBD,news,legacyId,stringify source primary key,preserve null,unique per tenant,pending,"Awaiting SHOW CREATE TABLE"
+web_case,TBD,TBD,cases,legacyId,stringify source primary key,preserve null,unique per tenant,pending,"Awaiting SHOW CREATE TABLE"
+web_config,TBD,TBD,site-settings,legacyConfig,decode and parse value,preserve null,valid JSON snapshot,pending,"Awaiting serialization format"
+

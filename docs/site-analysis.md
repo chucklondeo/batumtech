@@ -276,3 +276,19 @@ Batumtech.com 计划从旧有 PHP CMS + MySQL 升级为 Next.js 15 + TypeScript 
 目标技术栈能够满足官网现代化和未来多站点扩展，但 SEO 与数据保全的成败主要取决于迁移工程，而非框架本身。当前最关键的前置工作是取得旧站代码、MySQL 只读快照、图片目录和历史 URL/搜索数据，并据此把本报告升级为包含真实字段字典、数据质量统计、内容模型最终稿和逐 URL 迁移表的实施级方案。
 
 本阶段仅新增本分析文档；未修改任何生产代码、数据库、配置或图片资源。下一阶段开始写代码前，应先完成上述输入材料的接收与验证。
+
+## 11. 第二阶段复核记录（2026-08-16）
+
+用户指定旧站本地目录为：
+
+`C:\Users\Chuck\WPSDrive\528307941\WPS云盘\巴图姆科技\CODEX\batumteh`
+
+该目录经两次只读扫描仍为空，目录项、文件数和子目录数均为 0，且不是 Git 仓库。由于没有 PHP 源码、MySQL 导出或 `uploadfile/upfiles`，目前无法生成基于真实 DDL 的逐字段映射、媒体 manifest 或逐条旧 URL 清单。已建立以下待填充工件，所有未知值均明确标记为 `TBD` / `pending`：
+
+- `docs/database-field-mapping.csv`
+- `docs/url-migration-inventory.csv`
+- `docs/legacy-input-checklist.md`
+
+新站骨架已按 Next.js 15.4.11、TypeScript、Payload CMS 3.88.0 和 PostgreSQL 建立，并引入 Payload 官方 multi-tenant 插件。基础模型包括站点、用户、媒体、分类、产品、新闻、案例、站点配置和重定向；内容模型预留 `legacyId`、`legacyUrl`、`legacyPath` 和文件哈希字段，为后续幂等迁移、图片核验和 301 对账提供追溯能力。
+
+当前验证结果：TypeScript 严格类型检查通过；Next.js 生产编译成功。构建随后在 OneDrive 文件系统上的 Webpack 缓存快照阶段出现警告，完整命令被人工终止，需在普通本地磁盘或 CI 环境再次执行最终构建验收。Payload CLI 类型/Import Map 自动生成另受当前 Windows 沙箱 `uv_os_get_passwd` 系统错误影响，手工维护的空 Import Map 已通过 TypeScript 检查；在正常 Node.js 开发环境应重新运行生成命令。
