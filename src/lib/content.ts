@@ -45,6 +45,14 @@ export const findPublicContent = async (collection: 'products' | 'news') => {
   return result.docs as PublicContent[]
 }
 
+export const findPublicContentOrEmpty = async (collection: 'products' | 'news') => {
+  try {
+    return await findPublicContent(collection)
+  } catch {
+    return []
+  }
+}
+
 export const findCategoryContent = async (
   collection: 'products' | 'news',
   contentType: 'product' | 'news',
