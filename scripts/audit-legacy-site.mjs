@@ -31,6 +31,20 @@ const classify = (url) => {
   return 'anomalous_or_other'
 }
 
+const targetFor = (pageType, id, typeId) => {
+  const origin = 'https://batumtech.com'
+  if (pageType === 'home') return `${origin}/`
+  if (pageType === 'product_detail') return `${origin}/products/${id}`
+  if (pageType === 'product_category') return `${origin}/products/category/${typeId}`
+  if (pageType === 'product_index' || pageType === 'product_pagination') return `${origin}/products`
+  if (pageType === 'news_detail') return `${origin}/news/${id}`
+  if (pageType === 'news_category' || pageType === 'news_category_pagination') return `${origin}/news/category/${typeId}`
+  if (pageType === 'news_index' || pageType === 'news_pagination') return `${origin}/news`
+  if (pageType === 'about') return `${origin}/about`
+  if (pageType === 'contact') return `${origin}/contact`
+  return ''
+}
+
 const rows = []
 for (const match of entries) {
   const sourceUrl = decodeXml(match[1])
@@ -39,21 +53,23 @@ for (const match of entries) {
   const typeId = parsed.pathname.match(/typeid-(\d+)/i)?.[1] ?? ''
   const normalized = `${parsed.protocol}//${parsed.hostname.toLowerCase()}${parsed.pathname}${parsed.search}`
 
+  const pageType = classify(parsed)
+  const targetUrl = targetFor(pageType, id, typeId)
   rows.push({
     source_url: sourceUrl,
     normalized_source: normalized,
     source_host: parsed.hostname,
-    page_type: classify(parsed),
+    page_type: pageType,
     legacy_id: id,
     legacy_type_id: typeId,
-    target_url: '',
-    action: 'preserve_or_301_after_content_match',
-    status_code: '',
-    canonical_target: '',
+    target_url: targetUrl,
+    action: targetUrl ? 'permanent_redirect' : 'gone',
+    status_code: targetUrl ? '301' : '410',
+    canonical_target: targetUrl,
     priority: decodeXml(match[3]),
     lastmod: decodeXml(match[2]),
     evidence: 'batumtech.com/sitemap.xml fetched 2026-08-17',
-    status: 'observed_in_live_sitemap',
+    status: targetUrl ? 'mapped_to_batumtech.com' : 'mapped_to_410',
     notes: parsed.hostname === 'www.batumparking.cn' ? 'Sitemap host differs from current batumtech.com host' : '',
   })
 }
