@@ -292,3 +292,9 @@ Batumtech.com 计划从旧有 PHP CMS + MySQL 升级为 Next.js 15 + TypeScript 
 新站骨架已按 Next.js 15.4.11、TypeScript、Payload CMS 3.88.0 和 PostgreSQL 建立，并引入 Payload 官方 multi-tenant 插件。基础模型包括站点、用户、媒体、分类、产品、新闻、案例、站点配置和重定向；内容模型预留 `legacyId`、`legacyUrl`、`legacyPath` 和文件哈希字段，为后续幂等迁移、图片核验和 301 对账提供追溯能力。
 
 当前验证结果：TypeScript 严格类型检查通过；Next.js 生产编译成功。构建随后在 OneDrive 文件系统上的 Webpack 缓存快照阶段出现警告，完整命令被人工终止，需在普通本地磁盘或 CI 环境再次执行最终构建验收。Payload CLI 类型/Import Map 自动生成另受当前 Windows 沙箱 `uv_os_get_passwd` 系统错误影响，手工维护的空 Import Map 已通过 TypeScript 检查；在正常 Node.js 开发环境应重新运行生成命令。
+
+## 12. 旧站线上实证补充（2026-08-17）
+
+在 WPS 目标目录和“巴图姆科技”上级目录仍未发现 PHP、SQL 或 `uploadfile/upfiles` 后，继续对公开线上站点进行只读审计。已确认旧站运行 PHP 5.6.40；`robots.txt` 禁止 `/uploadfile/` 与 `/images/`；可访问的 `sitemap.xml` 却全部使用历史主机名 `www.batumparking.cn`，且历史域名 HTTPS 证书已过期。代表性旧式产品和新闻路径在 `batumtech.com` 主机下仍返回 HTTP 200。
+
+线上 sitemap 已作为第一批实证 URL 来源写入 `docs/url-migration-inventory.csv`，详细证据和路由结构见 `docs/live-site-audit.md`。该清单仍需与数据库、访问日志、百度搜索资源平台和站内全量抓取合并，不能视为最终 301 表。
