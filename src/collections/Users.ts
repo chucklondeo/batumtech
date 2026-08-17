@@ -14,7 +14,5 @@ export const Users: CollectionConfig = {
       options: ['super-admin', 'editor'],
       saveToJWT: true,
     },
-    { name: 'tenants', type: 'relationship', relationTo: 'tenants', hasMany: true },
   ],
 }
-
