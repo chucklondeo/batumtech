@@ -21,7 +21,10 @@ const dirname = path.dirname(filename)
 export default buildConfig({
   admin: { user: Users.slug },
   collections: [Users, Tenants, Media, Categories, Products, News, Cases, SiteSettings, Redirects],
-  db: postgresAdapter({ pool: { connectionString: process.env.DATABASE_URL } }),
+  db: postgresAdapter({
+    pool: { connectionString: process.env.DATABASE_URL },
+    push: process.env.PAYLOAD_DB_PUSH === 'true',
+  }),
   editor: lexicalEditor(),
   plugins: [
     multiTenantPlugin({
@@ -42,4 +45,3 @@ export default buildConfig({
   sharp,
   typescript: { outputFile: path.resolve(dirname, 'payload-types.ts') },
 })
-
