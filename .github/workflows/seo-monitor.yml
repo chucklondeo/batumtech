@@ -1,0 +1,29 @@
+name: Production SEO monitor
+
+on:
+  schedule:
+    - cron: '20 1 * * *'
+  workflow_dispatch:
+    inputs:
+      submit_to_baidu:
+        description: Submit canonical sitemap URLs to Baidu after the audit
+        type: boolean
+        default: false
+
+jobs:
+  audit:
+    if: github.event_name == 'workflow_dispatch' || vars.SEO_MONITOR_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/seo-audit.mjs
+        env:
+          SEO_FETCH_ORIGIN: https://batumtech.com
+      - name: Submit URLs to Baidu
+        if: inputs.submit_to_baidu == true
+        run: node scripts/submit-baidu.mjs
+        env:
+          BAIDU_PUSH_TOKEN: ${{ secrets.BAIDU_PUSH_TOKEN }}

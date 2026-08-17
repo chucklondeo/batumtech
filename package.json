@@ -10,6 +10,9 @@
     "generate:types": "payload generate:types",
     "lint": "next lint",
     "payload": "payload",
+    "seo:audit": "node scripts/seo-audit.mjs",
+    "seo:submit:baidu": "node scripts/submit-baidu.mjs",
+    "test:redirects": "node scripts/test-legacy-redirects.mjs",
     "start": "next start",
     "typecheck": "tsc --noEmit"
   },
