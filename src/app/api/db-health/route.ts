@@ -18,6 +18,10 @@ const classifyDatabaseError = (error: unknown) => {
 }
 
 export async function GET() {
+  const environment = {
+    databaseUrlConfigured: Boolean(process.env.DATABASE_URL),
+    payloadSecretConfigured: Boolean(process.env.PAYLOAD_SECRET),
+  }
   try {
     const [{ default: config }, { getPayload }] = await Promise.all([
       import('@payload-config'),
@@ -26,13 +30,13 @@ export async function GET() {
     const payload = await getPayload({ config })
     await payload.count({ collection: 'users' })
 
-    return NextResponse.json({ status: 'ok', database: 'connected', schema: 'ready' })
+    return NextResponse.json({ status: 'ok', database: 'connected', schema: 'ready', environment })
   } catch (error) {
     const code = classifyDatabaseError(error)
     console.error(`[db-health] ${code}`)
 
     return NextResponse.json(
-      { status: 'error', database: 'unavailable', code },
+      { status: 'error', database: 'unavailable', code, environment },
       { status: 503, headers: { 'cache-control': 'no-store' } },
     )
   }
