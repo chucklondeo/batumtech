@@ -15,12 +15,12 @@ import { Redirects } from './collections/Redirects'
 import { SiteSettings } from './collections/SiteSettings'
 import { Tenants } from './collections/Tenants'
 import { Users } from './collections/Users'
-import { runtimeEnv } from './lib/runtimeEnv'
+import { runtimeDatabaseUrl, runtimeEnv } from './lib/runtimeEnv'
 import { importLegacyContent } from './migrations/importLegacyContent'
 
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
-const databaseUrl = runtimeEnv('DATABASE_URL')
+const databaseUrl = runtimeDatabaseUrl()
 const payloadSecret = runtimeEnv('PAYLOAD_SECRET') || (databaseUrl
   ? createHash('sha256').update(`batumtech-payload:${databaseUrl}`).digest('hex')
   : '')

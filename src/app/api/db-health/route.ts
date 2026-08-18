@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server'
-import { runtimeEnv } from '@/lib/runtimeEnv'
+import { databaseEnvNames, runtimeDatabaseUrl, runtimeEnv } from '@/lib/runtimeEnv'
 
 export const dynamic = 'force-dynamic'
 
@@ -20,7 +20,8 @@ const classifyDatabaseError = (error: unknown) => {
 
 export async function GET() {
   const environment = {
-    databaseUrlConfigured: Boolean(runtimeEnv('DATABASE_URL')),
+    databaseUrlConfigured: Boolean(runtimeDatabaseUrl()),
+    detectedDatabaseVariable: databaseEnvNames.find((name) => Boolean(runtimeEnv(name))) || null,
     payloadSecretConfigured: Boolean(runtimeEnv('PAYLOAD_SECRET')),
     databasePushEnabled: runtimeEnv('PAYLOAD_DB_PUSH').toLowerCase() === 'true',
   }
