@@ -1,0 +1,675 @@
+{
+  "generatedAt": "2026-08-18T05:42:23.550Z",
+  "origin": "https://batumtech.com",
+  "pagesCrawled": 112,
+  "errors": [],
+  "categories": [
+    {
+      "legacyId": "116",
+      "contentType": "product",
+      "name": "AFC闸机",
+      "slug": "product-category-116",
+      "legacyUrl": "/index.php/product/typeid-116.html"
+    },
+    {
+      "legacyId": "122",
+      "contentType": "product",
+      "name": "站台屏蔽门",
+      "slug": "product-category-122",
+      "legacyUrl": "/index.php/product/typeid-122.html"
+    },
+    {
+      "legacyId": "114",
+      "contentType": "product",
+      "name": "伺服控制板",
+      "slug": "product-category-114",
+      "legacyUrl": "/index.php/product/typeid-114.html"
+    },
+    {
+      "legacyId": "115",
+      "contentType": "product",
+      "name": "门禁机芯",
+      "slug": "product-category-115",
+      "legacyUrl": "/index.php/product/typeid-115.html"
+    },
+    {
+      "legacyId": "111",
+      "contentType": "product",
+      "name": "ETC栏杆机",
+      "slug": "product-category-111",
+      "legacyUrl": "/index.php/product/typeid-111.html"
+    },
+    {
+      "legacyId": "93",
+      "contentType": "product",
+      "name": "停车场道闸",
+      "slug": "product-category-93",
+      "legacyUrl": "/index.php/product/typeid-93.html"
+    },
+    {
+      "legacyId": "95",
+      "contentType": "product",
+      "name": "智慧停车",
+      "slug": "product-category-95",
+      "legacyUrl": "/index.php/product/typeid-95.html"
+    },
+    {
+      "legacyId": "94",
+      "contentType": "product",
+      "name": "解决方案",
+      "slug": "product-category-94",
+      "legacyUrl": "/index.php/product/typeid-94.html"
+    },
+    {
+      "legacyId": "120",
+      "contentType": "product",
+      "name": "    地铁闸口翼闸",
+      "slug": "product-category-120",
+      "legacyUrl": "/index.php/product/typeid-120.html"
+    },
+    {
+      "legacyId": "119",
+      "contentType": "product",
+      "name": "    高铁闸口速通门",
+      "slug": "product-category-119",
+      "legacyUrl": "/index.php/product/typeid-119.html"
+    },
+    {
+      "legacyId": "121",
+      "contentType": "product",
+      "name": "ETC栏杆机",
+      "slug": "product-category-121",
+      "legacyUrl": "/index.php/product/typeid-121.html"
+    },
+    {
+      "legacyId": "101",
+      "contentType": "product",
+      "name": "行业知识",
+      "slug": "product-category-101",
+      "legacyUrl": "/index.php/product/typeid-101.html"
+    },
+    {
+      "legacyId": "101",
+      "contentType": "news",
+      "name": "行业知识",
+      "slug": "news-category-101",
+      "legacyUrl": "/index.php/news/typeid-101.html"
+    },
+    {
+      "legacyId": "36",
+      "contentType": "product",
+      "name": "新闻中心",
+      "slug": "product-category-36",
+      "legacyUrl": "/index.php/product/typeid-36.html"
+    },
+    {
+      "legacyId": "36",
+      "contentType": "news",
+      "name": "新闻中心",
+      "slug": "news-category-36",
+      "legacyUrl": "/index.php/news/typeid-36.html"
+    },
+    {
+      "legacyId": "89",
+      "contentType": "product",
+      "name": "案例中心",
+      "slug": "product-category-89",
+      "legacyUrl": "/index.php/product/typeid-89.html"
+    },
+    {
+      "legacyId": "89",
+      "contentType": "news",
+      "name": "案例中心",
+      "slug": "news-category-89",
+      "legacyUrl": "/index.php/news/typeid-89.html"
+    }
+  ],
+  "products": [
+    {
+      "legacyId": "65",
+      "categoryLegacyId": "119",
+      "title": "高铁速通门机芯",
+      "slug": "product-65",
+      "legacyUrl": "/index.php/product/typeid-119-id-65.html",
+      "summary": "巴图姆低压伺服速通门机芯——重新定义通道控制核心标准\r\n创新驱动，引领速通门行业技术革命\r\n在智慧城市建设不断深入的今天，人行通道控制系统作为安全管理的核心环节，正面临着更高的性能要求和更广泛的应用挑战。巴图姆科技凭借多年深耕运动控制领域的经验积累，专精于低压伺服速通门机芯的研发制造，以行业首创的技术创新和卓越稳定的产品性能，为通道控制领域带来革命性的解决方案。我们不仅提供产品，更提供面向未来的技术平台，助力合作伙伴打造更具竞争力的通道管理系统。",
+      "keywords": "轨道交通,地铁翼闸机芯,高铁拍打门机芯,伺服地铁门禁方案",
+      "legacyHtml": "<div class=\"ds-message _63c77b1\">\r\n\t<div class=\"ds-markdown\" color:#0f1115;\"=\"\">\r\n\t<h1>\r\n\t\t巴图姆低压伺服速通门机芯——重新定义通道控制核心标准\r\n\t</h1>\r\n\t<h2>\r\n\t\t创新驱动，引领速通门行业技术革命\r\n\t</h2>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t在智慧城市建设不断深入的今天，人行通道控制系统作为安全管理的核心环节，正面临着更高的性能要求和更广泛的应用挑战。巴图姆科技凭借多年深耕运动控制领域的经验积累，专精于低压伺服速通门机芯的研发制造，以行业首创的技术创新和卓越稳定的产品性能，为通道控制领域带来革命性的解决方案。我们不仅提供产品，更提供面向未来的技术平台，助力合作伙伴打造更具竞争力的通道管理系统。\r\n\t</p>\r\n\t<h2>\r\n\t\t核心技术优势：自主研发的低压伺服控制系统\r\n\t</h2>\r\n\t<h3>\r\n\t\t正弦波精密控制技术\r\n\t</h3>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t巴图姆完全自主研发的低压伺服控制主板，采用先进的正弦波矢量控制（FOC）算法，实现了对电机转矩、速度和位置的精确控制。相比传统的方波控制方式，正弦波控制具有：\r\n\t</p>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t运行更加平稳：消除转矩脉动，确保闸门运行顺滑流畅\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t定位更加精准：实现毫秒级的位置闭环控制，保证开关到位稳定\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t能效比更高：减少能量损耗，提高系统整体效率\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t<h3>\r\n\t\t行业首创的直驱外转子电机设计\r\n\t</h3>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t我们创新性地推出85mm和60mm两种规格的外径直驱外转子电机，这一设计突破了传统速通门机芯的技术局限：\r\n\t</p>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t结构优势：\r\n\t</p>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t取消传统减速机构，实现零背隙传动\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t外转子设计提供更大的扭矩密度\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t一体化结构减少机械连接点，提高系统刚性\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t性能优势：\r\n\t</p>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t响应速度提升40%以上\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t运行噪音低于45分贝，实现真正安静运行\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t免维护设计，大幅降低使用成本\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t<h2>\r\n\t\t卓越产品性能：安静、防水、稳定可靠\r\n\t</h2>\r\n\t<h3>\r\n\t\t安静运行的工程突破\r\n\t</h3>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t通过多项创新技术的综合应用，巴图姆速通门机芯实现了行业领先的静音效果：\r\n\t</p>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t电磁优化设计：采用特殊绕组和磁路设计，降低电磁噪音\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t机械精密加工：关键部件精度达到μm级别，减少机械振动\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t智能控制算法：优化运动曲线，消除启停冲击\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t<h3>\r\n\t\t全方位防水防护\r\n\t</h3>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t产品达到IP65防护等级，能够适应各种严苛环境：\r\n\t</p>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t密封结构设计：多重密封保障，防止水分和灰尘侵入\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t防腐表面处理：特殊涂层工艺，抗腐蚀能力强\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t宽温工作范围：-20℃至60℃正常工作，适应南北地域差异\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t<h3>\r\n\t\t稳定可靠的品质保证\r\n\t</h3>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t1500万次运行寿命：通过严苛的加速寿命测试验证\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t99.9%运行可靠性：采用军工级元器件和严格的质量控制\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t智能故障诊断：内置自诊断系统，实时监控运行状态\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t<h2>\r\n\t\t广泛的应用场景适配性\r\n\t</h2>\r\n\t<h3>\r\n\t\t地铁翼闸应用\r\n\t</h3>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t针对轨道交通高强度使用场景优化：\r\n\t</p>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t支持双向快速通行，通行速度可达60人/分钟\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t防尾随检测精度高达99.9%\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t断电自动打开，符合安全规范要求\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t<h3>\r\n\t\t拍打门系统\r\n\t</h3>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t为楼宇安防提供可靠解决方案：\r\n\t</p>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t可调力矩控制，实现安全防夹功能\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t多种工作模式可选，适应不同安防等级需求\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t优雅的外观设计，提升建筑整体形象\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t<h3>\r\n\t\t半高/全高屏蔽门\r\n\t</h3>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t满足高安全性场所需求：\r\n\t</p>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t强大的驱动能力，支持2.5米高门体稳定运行\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t精密的位置控制，确保门体闭合严实\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t紧急情况快速响应，保障人员安全疏散\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t<h2>\r\n\t\t技术创新亮点\r\n\t</h2>\r\n\t<h3>\r\n\t\t模块化设计理念\r\n\t</h3>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t快速更换维护：主要功能模块支持热插拔\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t灵活配置扩展：可根据需求增减功能模块\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t便捷升级更新：支持远程固件升级\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t<h3>\r\n\t\t智能控制系统\r\n\t</h3>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t自适应学习功能：自动识别负载变化并调整控制参数\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t能耗优化管理：智能调节功率输出，节能30%以上\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t远程监控维护：支持物联网接入，实现云端管理\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t<h3>\r\n\t\t安全防护体系\r\n\t</h3>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t多重安全保护：电气隔离、过流保护、过热保护等\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t紧急逃生机制：符合消防规范，保障紧急疏散\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t防破坏设计：强化结构，抵御外力冲击\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t<h2>\r\n\t\t专业服务体系\r\n\t</h2>\r\n\t<h3>\r\n\t\t技术支援保障\r\n\t</h3>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t24小时技术支持响应\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t专业工程师现场服务\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t定期巡检维护服务\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t<h3>\r\n\t\t定制化解决方案\r\n\t</h3>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t根据具体场景需求提供定制开发\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t协助系统集成和调试\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t提供专业技术培训\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t<h3>\r\n\t\t质量承诺\r\n\t</h3>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t36个月超长质保期\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t终身免费技术支持\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t备件快速供应保障\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t<h2>\r\n\t\t行业应用案例\r\n\t</h2>\r\n\t<h3>\r\n\t\t城市轨道交通项目\r\n\t</h3>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t已成功应用于多个城市地铁线路，日均服务超过百万人次，运行稳定可靠，获得客户一致好评。\r\n\t</p>\r\n\t<h3>\r\n\t\t智慧园区建设\r\n\t</h3>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t为众多高科技园区、工业园区提供人员进出管理解决方案，实现智能化、高效化管理。\r\n\t</p>\r\n\t<h3>\r\n\t\t公共安全管理\r\n\t</h3>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t在机场、车站、场馆等重要公共场所，提供安全可靠的通行控制保障。\r\n\t</p>\r\n\t<h2>\r\n\t\t持续创新承诺\r\n\t</h2>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t巴图姆科技始终坚持以技术创新驱动发展：\r\n\t</p>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t每年研发投入占比超过销售额的15%\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t拥有30余项核心技术专利\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t与多所高校建立联合实验室\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t参与多项行业标准制定\r\n\t\t\t</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t我们致力于通过持续的技术创新和产品优化，为客户提供更具价值的解决方案，推动整个行业的进步与发展。\r\n\t</p>\r\n\t<h2>\r\n\t\t结语：选择巴图姆，选择专业与可靠\r\n\t</h2>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t巴图姆低压伺服速通门机芯，以其创新的技术设计、卓越的产品性能和可靠的质量保障，已经成为众多行业领导企业的首选合作伙伴。我们不仅仅提供产品，更重要的是提供完整的技术解决方案和持续的服务支持。\r\n\t</p>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t在智慧通行时代，巴图姆愿与您携手合作，共同打造更加安全、高效、智能的人员通行管理系统，为智慧城市建设贡献力量。选择巴图姆，就是选择专业、选择可靠、选择未来。\r\n\t</p>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t巴图姆科技——智慧通行的核心动力\r\n\t</p>\r\n</div>\r\n\t</div>\r\n<div class=\"ds-theme\" --ds-transition-duration:.2s;--ds-transition-duration-fast:.1s;--ds-transition-duration-slow:.3s;--wip-ds-font-size-2xs:12px;--wip-ds-line-height-2xs-compact:1.5;--wip-ds-color-bg-tooltip:#2c2c2e;--ds-rgb-hover:245=\"\" 245=\"\" 245;--ds-rgb-primary:77=\"\" 107=\"\" 254;--ds-bordered-secondary-button-color:rgb(38=\"\" 38=\"\" 38);--ds-input-prefix-color:rgb(38=\"\" 38);\"=\"\">\r\n</div>\r\n<div class=\"ds-flex _0a3d93b\">\r\n\t<div class=\"ds-flex _965abe9 _54866f7\">\r\n\t\t<div class=\"db183363 ds-icon-button ds-icon-button--m ds-icon-button--sizing-container\" tabindex=\"0\" role=\"button\" aria-disabled=\"false\">\r\n\t\t\t<div class=\"ds-icon-button__hover-bg\">\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-icon\">\r\n\t\t\t\t<svg width=\"16\" height=\"16\" viewbox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6.14923 4.02032C7.11191 4.02032 7.87977 4.02017 8.49591 4.07599C9.12122 4.1327 9.65786 4.25188 10.1414 4.53107C10.7201 4.8653 11.2008 5.34591 11.535 5.92462C11.8142 6.40818 11.9333 6.94482 11.9901 7.57013C12.0459 8.18625 12.0457 8.9542 12.0457 9.91681C12.0457 10.8795 12.0459 11.6474 11.9901 12.2635C11.9333 12.8888 11.8142 13.4254 11.535 13.909C11.2008 14.4877 10.7201 14.9683 10.1414 15.3026C9.65786 15.5817 9.12122 15.7009 8.49591 15.7576C7.87977 15.8134 7.1119 15.8133 6.14923 15.8133C5.18661 15.8133 4.41868 15.8134 3.80255 15.7576C3.17724 15.7009 2.6406 15.5817 2.15704 15.3026C1.57834 14.9684 1.09772 14.4877 0.763489 13.909C0.484305 13.4254 0.365123 12.8888 0.308411 12.2635C0.252587 11.6474 0.252747 10.8795 0.252747 9.91681C0.252747 8.95419 0.252603 8.18625 0.308411 7.57013C0.365123 6.94482 0.484305 6.40818 0.763489 5.92462C1.09771 5.3459 1.57833 4.86529 2.15704 4.53107C2.6406 4.25188 3.17724 4.1327 3.80255 4.07599C4.41868 4.02018 5.1866 4.02032 6.14923 4.02032ZM6.14923 5.37775C5.16175 5.37775 4.46628 5.37761 3.9256 5.42657C3.39428 5.47473 3.07853 5.56574 2.83575 5.70587C2.46313 5.92106 2.15348 6.23071 1.93829 6.60333C1.79817 6.84611 1.70715 7.16185 1.659 7.69318C1.61004 8.23385 1.61017 8.92934 1.61017 9.91681C1.61017 10.9043 1.61002 11.5998 1.659 12.1404C1.70715 12.6717 1.79817 12.9875 1.93829 13.2303C2.15349 13.6029 2.46315 13.9126 2.83575 14.1277C3.07853 14.2679 3.39428 14.3589 3.9256 14.407C4.46628 14.456 5.16176 14.4559 6.14923 14.4559C7.13675 14.4559 7.83218 14.456 8.37286 14.407C8.90419 14.3589 9.21993 14.2679 9.46271 14.1277C9.83529 13.9126 10.145 13.6029 10.3602 13.2303C10.5003 12.9875 10.5913 12.6718 10.6395 12.1404C10.6884 11.5998 10.6883 10.9043 10.6883 9.91681C10.6883 8.92935 10.6884 8.23385 10.6395 7.69318C10.5913 7.16185 10.5003 6.84611 10.3602 6.60333C10.145 6.23072 9.8353 5.92107 9.46271 5.70587C9.21993 5.56574 8.90418 5.47473 8.37286 5.42657C7.83218 5.3776 7.13676 5.37775 6.14923 5.37775ZM9.80157 0.367981C10.7637 0.367981 11.5313 0.367886 12.1473 0.423645C12.7725 0.480313 13.3093 0.598765 13.7928 0.877747C14.3716 1.21192 14.852 1.69355 15.1863 2.27228C15.4655 2.75575 15.5857 3.29165 15.6424 3.91681C15.6982 4.53301 15.6971 5.30161 15.6971 6.26447V7.8299C15.6971 8.29265 15.6989 8.58994 15.6649 8.84845C15.4667 10.3525 14.4009 11.5738 12.9832 11.9988V10.5467C13.6973 10.1903 14.2104 9.49662 14.3192 8.67169C14.3387 8.52348 14.3406 8.3358 14.3406 7.8299V6.26447C14.3406 5.27707 14.3398 4.58149 14.2908 4.04083C14.2427 3.50969 14.1526 3.19373 14.0125 2.95099C13.7974 2.5785 13.4875 2.2687 13.1151 2.05353C12.8723 1.91347 12.5563 1.82237 12.0252 1.77423C11.4846 1.72528 10.7888 1.7254 9.80157 1.7254H7.71466C6.75614 1.72559 5.92659 2.27697 5.52325 3.07892H4.07013C4.54215 1.51132 5.99314 0.368192 7.71466 0.367981H9.80157Z\" fill=\"currentColor\"></path></svg>\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-focus-ring\">\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t<div class=\"db183363 ds-icon-button ds-icon-button--m ds-icon-button--sizing-container\" role=\"button\" aria-disabled=\"false\" tabindex=\"0\">\r\n\t\t\t<div class=\"ds-icon-button__hover-bg\">\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-icon\">\r\n\t\t\t\t<svg width=\"16\" height=\"16\" viewbox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.92139 0.349152C10.3744 0.349234 12.5564 1.5052 13.9558 3.29894L15.1281 2.12759C15.3304 1.92546 15.6767 2.06943 15.6767 2.35538V5.53923C15.6766 5.71626 15.5329 5.85976 15.3559 5.86002H12.171C11.8855 5.8597 11.7426 5.51465 11.9443 5.31249L12.9641 4.29056C11.8237 2.74305 9.98911 1.74106 7.92139 1.74097C4.46439 1.74097 1.66236 4.543 1.66236 8C1.66236 11.457 4.46439 14.259 7.92139 14.259C11.3783 14.2589 14.1804 11.4569 14.1804 8H15.5722C15.5722 12.2251 12.1465 15.6507 7.92139 15.6508C3.69617 15.6508 0.270538 12.2252 0.270538 8C0.270538 3.77478 3.69617 0.349152 7.92139 0.349152Z\" fill=\"currentColor\"></path></svg>\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-focus-ring\">\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t<div class=\"db183363 ds-icon-button ds-icon-button--m ds-icon-button--sizing-container\" tabindex=\"0\" role=\"button\" aria-disabled=\"false\">\r\n\t\t\t<div class=\"ds-icon-button__hover-bg\">\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-icon\">\r\n\t\t\t\t<svg width=\"16\" height=\"16\" viewbox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8.27861 0.811572C8.81985 0.142194 9.79016 0.0421835 10.4537 0.557601L10.5823 0.669306L10.6065 0.693544L10.6097 0.695652L10.6392 0.725159C11.3549 1.44679 11.6336 2.49468 11.3716 3.47669L11.3705 3.48091L11.361 3.51674L11.36 3.51885L10.8889 5.22604C10.8796 5.25997 10.8706 5.29157 10.8626 5.32088C10.8934 5.32095 10.927 5.32194 10.9627 5.32194H11.9006C12.4263 5.32194 12.783 5.319 13.0651 5.36725C14.8182 5.66719 15.9851 7.34568 15.6564 9.09357C15.6035 9.37487 15.4769 9.7092 15.2939 10.2022L14.337 12.7798C14.1401 13.3104 13.9773 13.7518 13.8101 14.1024C13.6375 14.4645 13.4385 14.7793 13.1441 15.0424C12.9712 15.197 12.7801 15.3303 12.5751 15.4386C12.2259 15.6231 11.8608 15.7 11.4612 15.7358C11.0742 15.7705 10.6034 15.7695 10.0374 15.7695H4.87371C4.08047 15.7695 3.42922 15.7702 2.90728 15.7137C2.37206 15.6557 1.88985 15.5311 1.4667 15.2237C1.22409 15.0474 1.01072 14.8339 0.834405 14.5914C0.52696 14.1682 0.401312 13.686 0.343323 13.1508C0.286761 12.6287 0.28747 11.9769 0.28747 11.1833V9.51405C0.28747 8.84778 0.281286 8.36714 0.399176 7.9565C0.671091 7.00935 1.41109 6.26832 2.35823 5.99638C2.76888 5.87849 3.24952 5.88573 3.91579 5.88573C4.11977 5.88573 4.14542 5.88319 4.16238 5.88046C4.23526 5.86863 4.30403 5.83663 4.35839 5.78667C4.37104 5.77504 4.38755 5.75604 4.51436 5.59488L8.25648 0.838972L8.25754 0.837918L8.27861 0.811572ZM1.69116 11.1833C1.69116 12.0082 1.69211 12.5711 1.73859 13.0001C1.78365 13.4157 1.86467 13.6221 1.96937 13.7662C2.05914 13.8898 2.16727 13.9989 2.29079 14.0887C2.43495 14.1934 2.6421 14.2744 3.05797 14.3195C3.45891 14.3629 3.97631 14.3656 4.71564 14.3659C4.30795 13.8053 4.06447 13.1171 4.06437 12.371V8.59406H5.46807V12.371C5.46832 13.4733 6.3616 14.3669 7.46401 14.3669H10.0374C10.6286 14.3669 11.0269 14.3663 11.3368 14.3385C11.6339 14.3118 11.7956 14.2638 11.9196 14.1983C12.024 14.1431 12.1213 14.0747 12.2094 13.996C12.3139 13.9025 12.4151 13.7678 12.5434 13.4986C12.6774 13.2176 12.8162 12.845 13.0219 12.2909L13.9787 9.71322C14.1848 9.15816 14.253 8.96731 14.278 8.83433C14.4617 7.85692 13.8092 6.91895 12.829 6.75092C12.6956 6.7281 12.4928 6.72458 11.9006 6.72458H10.9627C10.7737 6.72458 10.5693 6.72657 10.4 6.70666C10.2211 6.68562 9.96696 6.63024 9.74764 6.43161C9.64448 6.33811 9.5595 6.2261 9.49683 6.10177C9.36384 5.83784 9.37793 5.57899 9.40515 5.40097C9.43094 5.23261 9.48666 5.03616 9.53688 4.85404L10.0079 3.14579L10.0174 3.11102C10.1488 2.61338 10.0077 2.08338 9.64648 1.71681L9.60854 1.67887L9.55058 1.64304C9.48789 1.62043 9.41419 1.63814 9.36932 1.69362L9.35773 1.70627L9.35878 1.70732L5.61666 6.46217C5.51816 6.58735 5.42231 6.7133 5.30683 6.81942C5.05069 7.05471 4.73119 7.20939 4.3879 7.26519C4.23309 7.29032 4.07507 7.28837 3.91579 7.28837C3.1535 7.28837 2.9191 7.2957 2.74604 7.34528C2.26358 7.48379 1.88558 7.86081 1.74702 8.34325C1.69732 8.51636 1.69116 8.7511 1.69116 9.51405V11.1833Z\" fill=\"currentColor\"></path></svg>\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-focus-ring\">\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t<div class=\"db183363 ds-icon-button ds-icon-button--m ds-icon-button--sizing-container\" tabindex=\"0\" role=\"button\" aria-disabled=\"false\">\r\n\t\t\t<div class=\"ds-icon-button__hover-bg\">\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-icon\">\r\n\t\t\t\t<svg width=\"16\" height=\"16\" viewbox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.72451 15.1086C7.18929 15.7705 6.22975 15.8694 5.57357 15.3597L5.44643 15.2492L5.42247 15.2253L5.41934 15.2232L5.39016 15.194C4.68239 14.4804 4.40679 13.4442 4.66589 12.473L4.66693 12.4689L4.67631 12.4334L4.67735 12.4314L5.14318 10.7431C5.15243 10.7096 5.1613 10.6783 5.16923 10.6493C5.13878 10.6493 5.10558 10.6483 5.07023 10.6483H4.14274C3.62288 10.6483 3.27015 10.6512 2.9912 10.6035C1.25757 10.3069 0.103662 8.64703 0.42863 6.91855C0.480965 6.64038 0.606164 6.30975 0.787119 5.82224L1.73336 3.27321C1.92812 2.74853 2.08912 2.31209 2.25442 1.96535C2.42515 1.60725 2.62191 1.29594 2.91304 1.03578C3.08408 0.882955 3.273 0.751124 3.47579 0.643948C3.82102 0.461508 4.18214 0.385514 4.57731 0.35007C4.95993 0.315788 5.42553 0.316722 5.98521 0.316722H11.0916C11.876 0.316722 12.52 0.316073 13.0362 0.371954C13.5655 0.429296 14.0423 0.552538 14.4608 0.85654C14.7007 1.03085 14.9117 1.24193 15.086 1.48181C15.3901 1.90027 15.5143 2.3771 15.5717 2.90639C15.6276 3.42269 15.6269 4.06721 15.6269 4.85203V6.50274C15.6269 7.1616 15.633 7.63691 15.5164 8.04299C15.2475 8.97962 14.5158 9.71242 13.5791 9.98134C13.173 10.0979 12.6977 10.0908 12.0389 10.0908C11.8372 10.0908 11.8118 10.0933 11.795 10.096C11.723 10.1077 11.6549 10.1393 11.6012 10.1887C11.5887 10.2002 11.5724 10.219 11.447 10.3784L7.74639 15.0815L7.74535 15.0825L7.72451 15.1086ZM14.2388 4.85203C14.2388 4.03628 14.2379 3.47965 14.1919 3.05541C14.1473 2.64443 14.0672 2.4403 13.9637 2.29779C13.8749 2.17563 13.768 2.06769 13.6458 1.9789C13.5033 1.87533 13.2984 1.79523 12.8872 1.75068C12.4907 1.70773 11.979 1.70512 11.2479 1.70482C11.6511 2.25918 11.8918 2.93968 11.8919 3.67756V7.41251H10.5038V3.67756C10.5036 2.58745 9.62023 1.70378 8.53007 1.70378H5.98521C5.40065 1.70378 5.00679 1.70443 4.70028 1.73192C4.40651 1.7583 4.24662 1.80571 4.12399 1.87052C4.02069 1.92512 3.92452 1.99277 3.8374 2.07061C3.73401 2.16306 3.634 2.29621 3.50705 2.56249C3.37462 2.84028 3.23734 3.20874 3.03393 3.75676L2.08768 6.30578C1.88395 6.85468 1.81646 7.04341 1.79172 7.17491C1.61005 8.14146 2.25533 9.06902 3.22464 9.23518C3.35654 9.25775 3.55717 9.26123 4.14274 9.26123H5.07023C5.25717 9.26123 5.4593 9.25926 5.62672 9.27895C5.80364 9.29976 6.05492 9.35452 6.27179 9.55094C6.37381 9.6434 6.45784 9.75417 6.51982 9.87712C6.65133 10.1381 6.6374 10.3941 6.61048 10.5701C6.58498 10.7366 6.52988 10.9309 6.48022 11.111L6.01439 12.8003L6.00501 12.8347C5.87513 13.3268 6.01464 13.8509 6.37184 14.2134L6.40935 14.2509L6.46667 14.2863C6.52866 14.3087 6.60155 14.2912 6.64591 14.2363L6.65738 14.2238L6.65633 14.2228L10.3569 9.52072C10.4543 9.39693 10.5491 9.27239 10.6633 9.16744C10.9166 8.93477 11.2325 8.7818 11.572 8.72662C11.7251 8.70177 11.8814 8.7037 12.0389 8.7037C12.7927 8.7037 13.0245 8.69645 13.1956 8.64742C13.6727 8.51045 14.0465 8.13762 14.1836 7.66054C14.2327 7.48935 14.2388 7.25721 14.2388 6.50274V4.85203Z\" fill=\"currentColor\"></path></svg>\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-focus-ring\">\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t<div class=\"db183363 ds-icon-button ds-icon-button--m ds-icon-button--sizing-container\" tabindex=\"0\" role=\"button\" aria-disabled=\"false\">\r\n\t\t\t<div class=\"ds-icon-button__hover-bg\" font-size:14px;font-variant-ligatures:no-contextual;text-wrap-mode:wrap;\"=\"\">\r\n\t\t</div>\r\n<div class=\"ds-icon\" font-variant-ligatures:no-contextual;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\">\r\n\t\t\t\t<svg width=\"16\" height=\"16\" viewbox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15.7483 11.1003C15.6274 11.8866 15.5288 12.5364 15.3881 13.0496C15.243 13.5789 15.0339 14.0407 14.6455 14.4162C14.5638 14.4951 14.4775 14.5699 14.387 14.6386C13.9568 14.9655 13.4683 15.1011 12.9229 15.1641C12.3944 15.2251 11.7374 15.2245 10.9419 15.2245H5.05805C4.26257 15.2245 3.60557 15.2251 3.077 15.1641C2.53167 15.1011 2.04314 14.9655 1.61293 14.6386C1.52245 14.5699 1.43615 14.4951 1.35444 14.4162C0.96605 14.0407 0.756931 13.5789 0.611809 13.0496C0.471132 12.5364 0.372585 11.8866 0.251617 11.1003L1.64577 10.8863C1.77178 11.7054 1.85788 12.2601 1.97206 12.6767C2.08171 13.0766 2.19757 13.27 2.33437 13.4023C2.376 13.4426 2.4207 13.4807 2.46679 13.5157C2.61837 13.6308 2.82717 13.716 3.23909 13.7636C3.66809 13.8131 4.22946 13.8144 5.05805 13.8144H10.9419C11.7705 13.8144 12.3319 13.8131 12.7609 13.7636C13.1728 13.716 13.3816 13.6308 13.5331 13.5157C13.5792 13.4807 13.6239 13.4426 13.6656 13.4023C13.8024 13.27 13.9182 13.0766 14.0279 12.6767C14.1421 12.2601 14.2282 11.7054 14.3542 10.8863L15.7483 11.1003ZM7.715 0.558333C7.90368 0.527919 8.09626 0.527919 8.28495 0.558333C8.63703 0.61512 8.9129 0.790062 9.14941 0.985266C9.37576 1.1721 9.62515 1.42888 9.90475 1.71624L13.387 5.29485L12.8816 5.78747L12.3763 6.27902L8.89409 2.70041C8.82605 2.63048 8.76283 2.5671 8.70552 2.50866V10.5335H7.29442V2.50866C7.23711 2.5671 7.17389 2.63048 7.10585 2.70041L3.62365 6.27902L3.11832 5.78747L2.61299 5.29485L6.09519 1.71624C6.37479 1.42888 6.62419 1.1721 6.85054 0.985266C7.08704 0.790062 7.36291 0.61512 7.715 0.558333Z\" fill=\"currentColor\"></path></svg>\r\n\t</div>\r\n</div>\r\n\t</div>\r\n</div>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<ul class=\"clearfix pagws-ul\">\n\t\t\t\t\t\t\t\t\t<li class=\"fl\">上一个：<span>没有了</span></li>\n\t\t\t\t\t\t\t\t\t<li class=\"fr\">下一个：<span>没有了</span></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>",
+      "images": []
+    },
+    {
+      "legacyId": "61",
+      "categoryLegacyId": "121",
+      "title": "ETC快速栏杆机",
+      "slug": "product-61",
+      "legacyUrl": "/index.php/product/typeid-121-id-61.html",
+      "summary": "在现代化的交通管理和智能停车系统中，快速道闸栏杆机已成为ETC（电子不停车收费）车道的核心设备。它凭借高效、稳定、智能的特点，为车辆通行提供了无缝体验，同时提升了车流管理效率，是ETC车道专用的理想选择。巴图姆低压伺服栏杆机可达到0.6秒抬杆速度。",
+      "keywords": "道闸栏杆机芯厂家,高速公路etc专用道闸栏杆机,伺服驱动控制版,",
+      "legacyHtml": "<p>\r\n\t<img src=\"/uploadfile/editors/20250218/2025021823040639512.jpeg\" alt=\"\" />\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20250218/2025021823041942176.jpeg\" alt=\"\" />\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20250218/2025021823045368115.jpeg\" alt=\"\" />\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20250218/2025021823053690638.jpeg\" alt=\"\" /><img src=\"/uploadfile/editors/20250218/2025021823054441913.jpeg\" alt=\"\" />\r\n</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<ul class=\"clearfix pagws-ul\">\n\t\t\t\t\t\t\t\t\t<li class=\"fl\">上一个：<span>没有了</span></li>\n\t\t\t\t\t\t\t\t\t<li class=\"fr\">下一个：<span>没有了</span></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20250218/2025021823040639512.jpeg",
+        "/uploadfile/editors/20250218/2025021823041942176.jpeg",
+        "/uploadfile/editors/20250218/2025021823045368115.jpeg",
+        "/uploadfile/editors/20250218/2025021823053690638.jpeg",
+        "/uploadfile/editors/20250218/2025021823054441913.jpeg"
+      ]
+    },
+    {
+      "legacyId": "60",
+      "categoryLegacyId": "114",
+      "title": "速通门翼闸伺服控制器",
+      "slug": "product-60",
+      "legacyUrl": "/index.php/product/typeid-114-id-60.html",
+      "summary": "深圳低压伺服控制板,上海速通门控制板厂家,北京翼闸控制板供应商,广州屏蔽门控制系统,成都智能门控解决方案",
+      "keywords": "高性能低压伺服控制板,速通门专用控制板,翼闸门禁控制解决方案,地铁屏蔽门控制系统,智能门控伺服驱动器",
+      "legacyHtml": "<h2 text-wrap-mode:wrap;margin-top:0px=\"\" !important;\"=\"\"> <strong><span>巴图姆科技：引领直驱伺服速通门翼闸革新，静音防水行业首创，永无机械间隙！</span></strong> \r\n\t</h2>\r\n<p text-wrap-mode:wrap;\"=\"\"><strong><br />\r\n</strong> \r\n\t\t</p>\r\n<p text-wrap-mode:wrap;\"=\"\"> <strong>您是否还在为传统速通门、翼闸的噪音、漏水、机械磨损等问题烦恼？</strong> \r\n\t</p>\r\n<p text-wrap-mode:wrap;\"=\"\">\r\n\t巴图姆科技，专注于直驱伺服控制技术，为您带来<strong>静音防水、永无机械间隙</strong>的速通门、翼闸创新解决方案，开启智能通行新纪元！\r\n\t\t</p>\r\n<p text-wrap-mode:wrap;\"=\"\"><br />\r\n\t</p>\r\n<p text-wrap-mode:wrap;\"=\"\"> <strong>行业首创，静音防水，畅享静谧空间</strong> \r\n\t\t</p>\r\n<p text-wrap-mode:wrap;\"=\"\">\r\n\t传统速通门、翼闸运行噪音大，严重影响周边环境。巴图姆科技自主研发的<strong>直驱伺服控制系统</strong>，采用先进的电机驱动技术，运行平稳安静，噪音低至0<strong>分贝</strong>，为您营造舒适静谧的通行环境。\r\n\t</p>\r\n<p text-wrap-mode:wrap;\"=\"\">\r\n\t同时，我们突破传统防水技术瓶颈，创新研发<strong>防水工艺</strong>，有效防止雨水、灰尘侵入，确保设备在恶劣环境下稳定运行，延长使用寿命。\r\n\t\t</p>\r\n<p text-wrap-mode:wrap;\"=\"\"><br />\r\n\t</p>\r\n<p text-wrap-mode:wrap;\"=\"\"> <strong>永无机械间隙，精准控制，安全可靠</strong> \r\n\t\t</p>\r\n<p text-wrap-mode:wrap;\"=\"\">\r\n\t传统速通门、翼闸机械结构复杂，长期使用易产生机械间隙，导致运行不稳定，存在安全隐患。巴图姆科技<strong>直驱伺服控制系统</strong>，摒弃传统机械传动结构，采用<strong>直驱电机直接驱动</strong>，实现<strong>零机械间隙</strong>，运行更加精准稳定，安全可靠。\r\n\t</p>\r\n<p text-wrap-mode:wrap;\"=\"\"><br />\r\n\t\t</p>\r\n<p text-wrap-mode:wrap;\"=\"\"><br />\r\n\t</p>\r\n<ul font-size:16.002px;text-wrap-mode:wrap;\"=\"\">\r\n\t<li>\r\n\t\t<p>\r\n\t\t\t<strong>直驱伺服控制板 </strong><strong>速通门控制板 </strong><strong>翼闸控制板 </strong><strong>静音防水 </strong><strong>永无机械间隙 </strong><strong>智能通行解决方案</strong> \r\n\t\t</p>\r\n\t</li>\r\n\t<li>\r\n\t\t<p>\r\n\t\t\t<strong>巴图姆科技</strong> \r\n\t\t</p>\r\n\t</li>\r\n\t\t</ul>\r\n<p text-wrap-mode:wrap;\"=\"\"> <strong>选择巴图姆科技，选择智能通行未来！</strong> \r\n\t\t\t</p>\r\n<p text-wrap-mode:wrap;\"=\"\"> <strong>联系我们，了解更多产品信息和解决方案！</strong> \r\n\t\t</p>\r\n<p text-wrap-mode:wrap;\"=\"\"> <strong>电话:</strong> 17850723119\r\n\t\t\t</p>\r\n<p text-wrap-mode:wrap;\"=\"\"> <strong>邮箱:</strong> <a href=\"mailto:info@batutech.com\" target=\"_blank\" rel=\"noreferrer\">info@batutech.com</a> \r\n\t\t</p>\r\n<p text-wrap-mode:wrap;\"=\"\"> <strong>网址:</strong> <a href=\"http://www.batutech.com/\" target=\"_blank\" rel=\"noreferrer\">www.batutech.com</a> \r\n\t\t\t</p>\r\n<p text-wrap-mode:wrap;\"=\"\"> <strong>地址:</strong> 深圳市南山区桃源街道中爱大厦\r\n\t\t</p>\r\n<p text-wrap-mode:wrap;margin-bottom:0px=\"\" !important;\"=\"\"> <strong>巴图姆科技，让通行更智能、更安全、更便捷！</strong> \r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<br />\r\n\t\t\t</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<ul class=\"clearfix pagws-ul\">\n\t\t\t\t\t\t\t\t\t<li class=\"fl\">上一个：<a href=\"/index.php/product/id-59.html\">BTMSC-36 道闸伺服控制板</a></li>\n\t\t\t\t\t\t\t\t\t<li class=\"fr\">下一个：<a href=\"/index.php/product/id-63.html\">BTMSC-12 低压伺服道闸控制板</a></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>",
+      "images": []
+    },
+    {
+      "legacyId": "59",
+      "categoryLegacyId": "114",
+      "title": "BTMSC-36 道闸伺服控制板",
+      "slug": "product-59",
+      "legacyUrl": "/index.php/product/typeid-114-id-59.html",
+      "summary": "巴图姆BTMSC-36快速道闸伺服控制板专为高速道闸设计，支持0.6秒和0.9秒的极速开启，确保高效通行。采用低压运行，安全性高。接口丰富，支持多种通讯方式，包括自带网口，方便集成与管理。性能稳定，适用于各种环境下的快速道闸应用。",
+      "keywords": "道闸栏杆机芯厂家,高速公路etc专用道闸栏杆机,伺服驱动控制版,",
+      "legacyHtml": "<p>\r\n\t<img src=\"/uploadfile/editors/20250217/2025021709231676514.png\" alt=\"\" /> \r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20250217/2025021709233259738.png\" alt=\"\" /><img src=\"/uploadfile/editors/20250217/2025021709234357187.png\" alt=\"\" /><img src=\"/uploadfile/editors/20250217/2025021709235278257.png\" alt=\"\" /><img src=\"/uploadfile/editors/20250217/2025021709241733728.png\" alt=\"\" /><img src=\"/uploadfile/editors/20250217/2025021709242769238.png\" alt=\"\" /> \r\n</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<ul class=\"clearfix pagws-ul\">\n\t\t\t\t\t\t\t\t\t<li class=\"fl\">上一个：<a href=\"/index.php/product/id-55.html\">BTMSC24巴图姆伺服控制器</a></li>\n\t\t\t\t\t\t\t\t\t<li class=\"fr\">下一个：<a href=\"/index.php/product/id-60.html\">速通门翼闸伺服控制器</a></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20250217/2025021709231676514.png",
+        "/uploadfile/editors/20250217/2025021709233259738.png",
+        "/uploadfile/editors/20250217/2025021709234357187.png",
+        "/uploadfile/editors/20250217/2025021709235278257.png",
+        "/uploadfile/editors/20250217/2025021709241733728.png",
+        "/uploadfile/editors/20250217/2025021709242769238.png"
+      ]
+    },
+    {
+      "legacyId": "62",
+      "categoryLegacyId": "120",
+      "title": "地铁伺服直驱翼闸机芯",
+      "slug": "product-62",
+      "legacyUrl": "/index.php/product/typeid-120-id-62.html",
+      "summary": "巴图姆：地铁伺服直驱翼闸机芯创新方案——重新定义通行体验\r\n在轨道交通快速发展的今天，闸机作为乘客进出的第一道关口，其性能直接影响着通行效率与用户体验。巴图姆凭借对行业需求的深刻理解与技术创新的执着追求，推出革命性的地铁伺服直驱翼闸机芯解决方案，以自研低压伺服控制主板和正弦波控制技术为核心，彻底改变了传统闸机的运行模式，为现代轨道交通系统提供了更加智能、可靠和高效的通行保障。",
+      "keywords": "轨道交通,地铁翼闸机芯,高铁拍打门机芯,伺服地铁门禁方案",
+      "legacyHtml": "<div class=\"ds-message _63c77b1\">\r\n\t<div class=\"ds-markdown\" color:#0f1115;\"=\"\">\r\n\t<h1>\r\n\t\t巴图姆：地铁伺服直驱翼闸机芯创新方案——重新定义通行体验\r\n\t</h1>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t在轨道交通快速发展的今天，闸机作为乘客进出的第一道关口，其性能直接影响着通行效率与用户体验。巴图姆凭借对行业需求的深刻理解与技术创新的执着追求，推出革命性的地铁伺服直驱翼闸机芯解决方案，以自研低压伺服控制主板和正弦波控制技术为核心，彻底改变了传统闸机的运行模式，为现代轨道交通系统提供了更加智能、可靠和高效的通行保障。\r\n\t</p>\r\n\t<h2>\r\n\t\t核心技术突破：直驱技术的革命性应用\r\n\t</h2>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t传统翼闸机芯普遍采用“电机+减速机”的传动结构，这种设计存在不可避免的机械磨损和间隙问题，导致噪音大、精度下降、维护频繁等痛点。巴图姆创新性地摒弃了这一传统模式，采用先进的直驱技术，实现了电机与执行机构的直接连接。\r\n\t</p>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t无减速机设计是我们方案的核心优势之一。通过消除中间传动环节，不仅显著减少了机械部件数量，更重要的是彻底解决了传统闸机因齿轮磨损产生的机械间隙问题。这一创新意味着闸门在无数次开合后仍能保持出厂时的精准度，确保了长期稳定运行。\r\n\t</p>\r\n\t<h2>\r\n\t\t正弦波控制：平稳静音的运行体验\r\n\t</h2>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t巴图姆自主研发的低压伺服控制主板采用正弦波控制方式，相比传统的方波控制，具有转矩平稳、噪音低、效率高等显著优势。正弦波驱动使电机运转更加平滑，从根本上消除了传统闸机启停时的顿挫感和机械撞击声。\r\n\t</p>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t完全静音的运行状态是我们的又一突出特点。无论是在清晨车站刚刚开放，还是在深夜最后一班列车到达，巴图姆翼闸机芯都能以近乎无声的方式工作，为乘客创造宁静舒适的通行环境，同时也减轻了站务人员长期处于噪音环境的工作压力。\r\n\t</p>\r\n\t<h2>\r\n\t\t卓越性能指标：可靠性重新定义\r\n\t</h2>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t巴图姆伺服直驱翼闸机芯在关键性能参数上树立了行业新标杆：\r\n\t</p>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t1500万次超长寿命——这一数字不仅是传统闸机寿命的3-5倍，更是对我们产品材料和工艺的极致验证。通过优化电磁设计、采用高强度特种材料和精密加工工艺，我们确保了机芯在长期高频次运行下依然保持卓越性能。\r\n\t</p>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t断电自动开闸的安全设计体现了我们对应急情况的周全考虑。当突发断电情况发生时，闸门会自动切换到打开状态，确保乘客能够快速疏散，这一功能在紧急情况下显得尤为重要，充分体现了“安全第一”的设计理念。\r\n\t</p>\r\n\t<h2>\r\n\t\t智能控制与节能优势\r\n\t</h2>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t我们的低压伺服控制主板集成了先进的控制算法，能够实时监测电机状态并动态调整控制参数，确保闸门在各种负载条件下都能实现最优运动轨迹。与高压系统相比，低压设计不仅提高了安全性，还降低了能耗，单台机芯节能可达30%以上，对于拥有数百甚至数千台闸机的大型地铁系统来说，这意味着显著的运营成本节约。\r\n\t</p>\r\n\t<h2>\r\n\t\t维护便捷性与全生命周期成本\r\n\t</h2>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t传统闸机因机械磨损需要定期润滑、更换齿轮等维护工作，而巴图姆直驱方案几乎免除了这些常规维护。更少的机械部件意味着更低的故障率和更简单的维护流程，大幅降低了全生命周期的运营维护成本。我们的模块化设计也使现场更换更加便捷，平均维修时间可缩短70%以上。\r\n\t</p>\r\n\t<h2>\r\n\t\t应用场景与定制化服务\r\n\t</h2>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t巴图姆伺服直驱翼闸机芯方案特别适合对噪音控制、运行可靠性和维护成本有高要求的地铁、高铁、机场等交通枢纽场景。我们可根据不同客户的具体需求，提供从机芯到整机的定制化解决方案，包括通行速度调节、防夹力度设置、接口协议适配等多种个性化配置。\r\n\t</p>\r\n\t<h2>\r\n\t\t结语\r\n\t</h2>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t巴图姆以技术创新为驱动，以用户需求为导向，通过伺服直驱翼闸机芯方案解决了传统闸机的诸多痛点。我们不仅仅是提供一款产品，更是为现代交通系统提供了一种更智能、更可靠、更经济的通行解决方案。在未来，巴图姆将继续深耕直驱技术领域，推动更多交通场景的智能化升级，让每一次通行都成为舒适、高效、安全的体验。\r\n\t</p>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t选择巴图姆，选择未来通行的新标准。\r\n\t</p>\r\n</div>\r\n\t</div>\r\n<div class=\"ds-theme\" --ds-transition-duration:.2s;--ds-transition-duration-fast:.1s;--ds-transition-duration-slow:.3s;--wip-ds-font-size-2xs:12px;--wip-ds-line-height-2xs-compact:1.5;--wip-ds-color-bg-tooltip:#2c2c2e;--ds-rgb-hover:245=\"\" 245=\"\" 245;--ds-rgb-primary:77=\"\" 107=\"\" 254;--ds-bordered-secondary-button-color:rgb(38=\"\" 38=\"\" 38);--ds-input-prefix-color:rgb(38=\"\" 38);\"=\"\">\r\n</div>\r\n<div class=\"ds-flex _0a3d93b\">\r\n\t<div class=\"ds-flex _965abe9 _54866f7\">\r\n\t\t<div class=\"db183363 ds-icon-button ds-icon-button--m ds-icon-button--sizing-container\" tabindex=\"0\" role=\"button\" aria-disabled=\"false\">\r\n\t\t\t<div class=\"ds-icon-button__hover-bg\">\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-icon\">\r\n\t\t\t\t<svg width=\"16\" height=\"16\" viewbox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6.14923 4.02032C7.11191 4.02032 7.87977 4.02017 8.49591 4.07599C9.12122 4.1327 9.65786 4.25188 10.1414 4.53107C10.7201 4.8653 11.2008 5.34591 11.535 5.92462C11.8142 6.40818 11.9333 6.94482 11.9901 7.57013C12.0459 8.18625 12.0457 8.9542 12.0457 9.91681C12.0457 10.8795 12.0459 11.6474 11.9901 12.2635C11.9333 12.8888 11.8142 13.4254 11.535 13.909C11.2008 14.4877 10.7201 14.9683 10.1414 15.3026C9.65786 15.5817 9.12122 15.7009 8.49591 15.7576C7.87977 15.8134 7.1119 15.8133 6.14923 15.8133C5.18661 15.8133 4.41868 15.8134 3.80255 15.7576C3.17724 15.7009 2.6406 15.5817 2.15704 15.3026C1.57834 14.9684 1.09772 14.4877 0.763489 13.909C0.484305 13.4254 0.365123 12.8888 0.308411 12.2635C0.252587 11.6474 0.252747 10.8795 0.252747 9.91681C0.252747 8.95419 0.252603 8.18625 0.308411 7.57013C0.365123 6.94482 0.484305 6.40818 0.763489 5.92462C1.09771 5.3459 1.57833 4.86529 2.15704 4.53107C2.6406 4.25188 3.17724 4.1327 3.80255 4.07599C4.41868 4.02018 5.1866 4.02032 6.14923 4.02032ZM6.14923 5.37775C5.16175 5.37775 4.46628 5.37761 3.9256 5.42657C3.39428 5.47473 3.07853 5.56574 2.83575 5.70587C2.46313 5.92106 2.15348 6.23071 1.93829 6.60333C1.79817 6.84611 1.70715 7.16185 1.659 7.69318C1.61004 8.23385 1.61017 8.92934 1.61017 9.91681C1.61017 10.9043 1.61002 11.5998 1.659 12.1404C1.70715 12.6717 1.79817 12.9875 1.93829 13.2303C2.15349 13.6029 2.46315 13.9126 2.83575 14.1277C3.07853 14.2679 3.39428 14.3589 3.9256 14.407C4.46628 14.456 5.16176 14.4559 6.14923 14.4559C7.13675 14.4559 7.83218 14.456 8.37286 14.407C8.90419 14.3589 9.21993 14.2679 9.46271 14.1277C9.83529 13.9126 10.145 13.6029 10.3602 13.2303C10.5003 12.9875 10.5913 12.6718 10.6395 12.1404C10.6884 11.5998 10.6883 10.9043 10.6883 9.91681C10.6883 8.92935 10.6884 8.23385 10.6395 7.69318C10.5913 7.16185 10.5003 6.84611 10.3602 6.60333C10.145 6.23072 9.8353 5.92107 9.46271 5.70587C9.21993 5.56574 8.90418 5.47473 8.37286 5.42657C7.83218 5.3776 7.13676 5.37775 6.14923 5.37775ZM9.80157 0.367981C10.7637 0.367981 11.5313 0.367886 12.1473 0.423645C12.7725 0.480313 13.3093 0.598765 13.7928 0.877747C14.3716 1.21192 14.852 1.69355 15.1863 2.27228C15.4655 2.75575 15.5857 3.29165 15.6424 3.91681C15.6982 4.53301 15.6971 5.30161 15.6971 6.26447V7.8299C15.6971 8.29265 15.6989 8.58994 15.6649 8.84845C15.4667 10.3525 14.4009 11.5738 12.9832 11.9988V10.5467C13.6973 10.1903 14.2104 9.49662 14.3192 8.67169C14.3387 8.52348 14.3406 8.3358 14.3406 7.8299V6.26447C14.3406 5.27707 14.3398 4.58149 14.2908 4.04083C14.2427 3.50969 14.1526 3.19373 14.0125 2.95099C13.7974 2.5785 13.4875 2.2687 13.1151 2.05353C12.8723 1.91347 12.5563 1.82237 12.0252 1.77423C11.4846 1.72528 10.7888 1.7254 9.80157 1.7254H7.71466C6.75614 1.72559 5.92659 2.27697 5.52325 3.07892H4.07013C4.54215 1.51132 5.99314 0.368192 7.71466 0.367981H9.80157Z\" fill=\"currentColor\"></path></svg>\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-focus-ring\">\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t<div class=\"db183363 ds-icon-button ds-icon-button--m ds-icon-button--sizing-container\" role=\"button\" aria-disabled=\"false\" tabindex=\"0\">\r\n\t\t\t<div class=\"ds-icon-button__hover-bg\">\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-icon\">\r\n\t\t\t\t<svg width=\"16\" height=\"16\" viewbox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.92139 0.349152C10.3744 0.349234 12.5564 1.5052 13.9558 3.29894L15.1281 2.12759C15.3304 1.92546 15.6767 2.06943 15.6767 2.35538V5.53923C15.6766 5.71626 15.5329 5.85976 15.3559 5.86002H12.171C11.8855 5.8597 11.7426 5.51465 11.9443 5.31249L12.9641 4.29056C11.8237 2.74305 9.98911 1.74106 7.92139 1.74097C4.46439 1.74097 1.66236 4.543 1.66236 8C1.66236 11.457 4.46439 14.259 7.92139 14.259C11.3783 14.2589 14.1804 11.4569 14.1804 8H15.5722C15.5722 12.2251 12.1465 15.6507 7.92139 15.6508C3.69617 15.6508 0.270538 12.2252 0.270538 8C0.270538 3.77478 3.69617 0.349152 7.92139 0.349152Z\" fill=\"currentColor\"></path></svg>\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-focus-ring\">\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t<div class=\"db183363 ds-icon-button ds-icon-button--m ds-icon-button--sizing-container\" tabindex=\"0\" role=\"button\" aria-disabled=\"false\">\r\n\t\t\t<div class=\"ds-icon-button__hover-bg\">\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-icon\">\r\n\t\t\t\t<svg width=\"16\" height=\"16\" viewbox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8.27861 0.811572C8.81985 0.142194 9.79016 0.0421835 10.4537 0.557601L10.5823 0.669306L10.6065 0.693544L10.6097 0.695652L10.6392 0.725159C11.3549 1.44679 11.6336 2.49468 11.3716 3.47669L11.3705 3.48091L11.361 3.51674L11.36 3.51885L10.8889 5.22604C10.8796 5.25997 10.8706 5.29157 10.8626 5.32088C10.8934 5.32095 10.927 5.32194 10.9627 5.32194H11.9006C12.4263 5.32194 12.783 5.319 13.0651 5.36725C14.8182 5.66719 15.9851 7.34568 15.6564 9.09357C15.6035 9.37487 15.4769 9.7092 15.2939 10.2022L14.337 12.7798C14.1401 13.3104 13.9773 13.7518 13.8101 14.1024C13.6375 14.4645 13.4385 14.7793 13.1441 15.0424C12.9712 15.197 12.7801 15.3303 12.5751 15.4386C12.2259 15.6231 11.8608 15.7 11.4612 15.7358C11.0742 15.7705 10.6034 15.7695 10.0374 15.7695H4.87371C4.08047 15.7695 3.42922 15.7702 2.90728 15.7137C2.37206 15.6557 1.88985 15.5311 1.4667 15.2237C1.22409 15.0474 1.01072 14.8339 0.834405 14.5914C0.52696 14.1682 0.401312 13.686 0.343323 13.1508C0.286761 12.6287 0.28747 11.9769 0.28747 11.1833V9.51405C0.28747 8.84778 0.281286 8.36714 0.399176 7.9565C0.671091 7.00935 1.41109 6.26832 2.35823 5.99638C2.76888 5.87849 3.24952 5.88573 3.91579 5.88573C4.11977 5.88573 4.14542 5.88319 4.16238 5.88046C4.23526 5.86863 4.30403 5.83663 4.35839 5.78667C4.37104 5.77504 4.38755 5.75604 4.51436 5.59488L8.25648 0.838972L8.25754 0.837918L8.27861 0.811572ZM1.69116 11.1833C1.69116 12.0082 1.69211 12.5711 1.73859 13.0001C1.78365 13.4157 1.86467 13.6221 1.96937 13.7662C2.05914 13.8898 2.16727 13.9989 2.29079 14.0887C2.43495 14.1934 2.6421 14.2744 3.05797 14.3195C3.45891 14.3629 3.97631 14.3656 4.71564 14.3659C4.30795 13.8053 4.06447 13.1171 4.06437 12.371V8.59406H5.46807V12.371C5.46832 13.4733 6.3616 14.3669 7.46401 14.3669H10.0374C10.6286 14.3669 11.0269 14.3663 11.3368 14.3385C11.6339 14.3118 11.7956 14.2638 11.9196 14.1983C12.024 14.1431 12.1213 14.0747 12.2094 13.996C12.3139 13.9025 12.4151 13.7678 12.5434 13.4986C12.6774 13.2176 12.8162 12.845 13.0219 12.2909L13.9787 9.71322C14.1848 9.15816 14.253 8.96731 14.278 8.83433C14.4617 7.85692 13.8092 6.91895 12.829 6.75092C12.6956 6.7281 12.4928 6.72458 11.9006 6.72458H10.9627C10.7737 6.72458 10.5693 6.72657 10.4 6.70666C10.2211 6.68562 9.96696 6.63024 9.74764 6.43161C9.64448 6.33811 9.5595 6.2261 9.49683 6.10177C9.36384 5.83784 9.37793 5.57899 9.40515 5.40097C9.43094 5.23261 9.48666 5.03616 9.53688 4.85404L10.0079 3.14579L10.0174 3.11102C10.1488 2.61338 10.0077 2.08338 9.64648 1.71681L9.60854 1.67887L9.55058 1.64304C9.48789 1.62043 9.41419 1.63814 9.36932 1.69362L9.35773 1.70627L9.35878 1.70732L5.61666 6.46217C5.51816 6.58735 5.42231 6.7133 5.30683 6.81942C5.05069 7.05471 4.73119 7.20939 4.3879 7.26519C4.23309 7.29032 4.07507 7.28837 3.91579 7.28837C3.1535 7.28837 2.9191 7.2957 2.74604 7.34528C2.26358 7.48379 1.88558 7.86081 1.74702 8.34325C1.69732 8.51636 1.69116 8.7511 1.69116 9.51405V11.1833Z\" fill=\"currentColor\"></path></svg>\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-focus-ring\">\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t<div class=\"db183363 ds-icon-button ds-icon-button--m ds-icon-button--sizing-container\" tabindex=\"0\" role=\"button\" aria-disabled=\"false\">\r\n\t\t\t<div class=\"ds-icon-button__hover-bg\">\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-icon\">\r\n\t\t\t\t<svg width=\"16\" height=\"16\" viewbox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.72451 15.1086C7.18929 15.7705 6.22975 15.8694 5.57357 15.3597L5.44643 15.2492L5.42247 15.2253L5.41934 15.2232L5.39016 15.194C4.68239 14.4804 4.40679 13.4442 4.66589 12.473L4.66693 12.4689L4.67631 12.4334L4.67735 12.4314L5.14318 10.7431C5.15243 10.7096 5.1613 10.6783 5.16923 10.6493C5.13878 10.6493 5.10558 10.6483 5.07023 10.6483H4.14274C3.62288 10.6483 3.27015 10.6512 2.9912 10.6035C1.25757 10.3069 0.103662 8.64703 0.42863 6.91855C0.480965 6.64038 0.606164 6.30975 0.787119 5.82224L1.73336 3.27321C1.92812 2.74853 2.08912 2.31209 2.25442 1.96535C2.42515 1.60725 2.62191 1.29594 2.91304 1.03578C3.08408 0.882955 3.273 0.751124 3.47579 0.643948C3.82102 0.461508 4.18214 0.385514 4.57731 0.35007C4.95993 0.315788 5.42553 0.316722 5.98521 0.316722H11.0916C11.876 0.316722 12.52 0.316073 13.0362 0.371954C13.5655 0.429296 14.0423 0.552538 14.4608 0.85654C14.7007 1.03085 14.9117 1.24193 15.086 1.48181C15.3901 1.90027 15.5143 2.3771 15.5717 2.90639C15.6276 3.42269 15.6269 4.06721 15.6269 4.85203V6.50274C15.6269 7.1616 15.633 7.63691 15.5164 8.04299C15.2475 8.97962 14.5158 9.71242 13.5791 9.98134C13.173 10.0979 12.6977 10.0908 12.0389 10.0908C11.8372 10.0908 11.8118 10.0933 11.795 10.096C11.723 10.1077 11.6549 10.1393 11.6012 10.1887C11.5887 10.2002 11.5724 10.219 11.447 10.3784L7.74639 15.0815L7.74535 15.0825L7.72451 15.1086ZM14.2388 4.85203C14.2388 4.03628 14.2379 3.47965 14.1919 3.05541C14.1473 2.64443 14.0672 2.4403 13.9637 2.29779C13.8749 2.17563 13.768 2.06769 13.6458 1.9789C13.5033 1.87533 13.2984 1.79523 12.8872 1.75068C12.4907 1.70773 11.979 1.70512 11.2479 1.70482C11.6511 2.25918 11.8918 2.93968 11.8919 3.67756V7.41251H10.5038V3.67756C10.5036 2.58745 9.62023 1.70378 8.53007 1.70378H5.98521C5.40065 1.70378 5.00679 1.70443 4.70028 1.73192C4.40651 1.7583 4.24662 1.80571 4.12399 1.87052C4.02069 1.92512 3.92452 1.99277 3.8374 2.07061C3.73401 2.16306 3.634 2.29621 3.50705 2.56249C3.37462 2.84028 3.23734 3.20874 3.03393 3.75676L2.08768 6.30578C1.88395 6.85468 1.81646 7.04341 1.79172 7.17491C1.61005 8.14146 2.25533 9.06902 3.22464 9.23518C3.35654 9.25775 3.55717 9.26123 4.14274 9.26123H5.07023C5.25717 9.26123 5.4593 9.25926 5.62672 9.27895C5.80364 9.29976 6.05492 9.35452 6.27179 9.55094C6.37381 9.6434 6.45784 9.75417 6.51982 9.87712C6.65133 10.1381 6.6374 10.3941 6.61048 10.5701C6.58498 10.7366 6.52988 10.9309 6.48022 11.111L6.01439 12.8003L6.00501 12.8347C5.87513 13.3268 6.01464 13.8509 6.37184 14.2134L6.40935 14.2509L6.46667 14.2863C6.52866 14.3087 6.60155 14.2912 6.64591 14.2363L6.65738 14.2238L6.65633 14.2228L10.3569 9.52072C10.4543 9.39693 10.5491 9.27239 10.6633 9.16744C10.9166 8.93477 11.2325 8.7818 11.572 8.72662C11.7251 8.70177 11.8814 8.7037 12.0389 8.7037C12.7927 8.7037 13.0245 8.69645 13.1956 8.64742C13.6727 8.51045 14.0465 8.13762 14.1836 7.66054C14.2327 7.48935 14.2388 7.25721 14.2388 6.50274V4.85203Z\" fill=\"currentColor\"></path></svg>\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-focus-ring\">\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t<div class=\"db183363 ds-icon-button ds-icon-button--m ds-icon-button--sizing-container\" tabindex=\"0\" role=\"button\" aria-disabled=\"false\">\r\n\t\t\t<div class=\"ds-icon-button__hover-bg\" font-size:14px;font-variant-ligatures:no-contextual;text-wrap-mode:wrap;\"=\"\">\r\n\t\t</div>\r\n<div class=\"ds-icon\" font-variant-ligatures:no-contextual;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\">\r\n\t\t\t\t<svg width=\"16\" height=\"16\" viewbox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15.7483 11.1003C15.6274 11.8866 15.5288 12.5364 15.3881 13.0496C15.243 13.5789 15.0339 14.0407 14.6455 14.4162C14.5638 14.4951 14.4775 14.5699 14.387 14.6386C13.9568 14.9655 13.4683 15.1011 12.9229 15.1641C12.3944 15.2251 11.7374 15.2245 10.9419 15.2245H5.05805C4.26257 15.2245 3.60557 15.2251 3.077 15.1641C2.53167 15.1011 2.04314 14.9655 1.61293 14.6386C1.52245 14.5699 1.43615 14.4951 1.35444 14.4162C0.96605 14.0407 0.756931 13.5789 0.611809 13.0496C0.471132 12.5364 0.372585 11.8866 0.251617 11.1003L1.64577 10.8863C1.77178 11.7054 1.85788 12.2601 1.97206 12.6767C2.08171 13.0766 2.19757 13.27 2.33437 13.4023C2.376 13.4426 2.4207 13.4807 2.46679 13.5157C2.61837 13.6308 2.82717 13.716 3.23909 13.7636C3.66809 13.8131 4.22946 13.8144 5.05805 13.8144H10.9419C11.7705 13.8144 12.3319 13.8131 12.7609 13.7636C13.1728 13.716 13.3816 13.6308 13.5331 13.5157C13.5792 13.4807 13.6239 13.4426 13.6656 13.4023C13.8024 13.27 13.9182 13.0766 14.0279 12.6767C14.1421 12.2601 14.2282 11.7054 14.3542 10.8863L15.7483 11.1003ZM7.715 0.558333C7.90368 0.527919 8.09626 0.527919 8.28495 0.558333C8.63703 0.61512 8.9129 0.790062 9.14941 0.985266C9.37576 1.1721 9.62515 1.42888 9.90475 1.71624L13.387 5.29485L12.8816 5.78747L12.3763 6.27902L8.89409 2.70041C8.82605 2.63048 8.76283 2.5671 8.70552 2.50866V10.5335H7.29442V2.50866C7.23711 2.5671 7.17389 2.63048 7.10585 2.70041L3.62365 6.27902L3.11832 5.78747L2.61299 5.29485L6.09519 1.71624C6.37479 1.42888 6.62419 1.1721 6.85054 0.985266C7.08704 0.790062 7.36291 0.61512 7.715 0.558333Z\" fill=\"currentColor\"></path></svg>\r\n\t</div>\r\n</div>\r\n\t</div>\r\n</div>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<ul class=\"clearfix pagws-ul\">\n\t\t\t\t\t\t\t\t\t<li class=\"fl\">上一个：<span>没有了</span></li>\n\t\t\t\t\t\t\t\t\t<li class=\"fr\">下一个：<span>没有了</span></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>",
+      "images": []
+    },
+    {
+      "legacyId": "63",
+      "categoryLegacyId": "114",
+      "title": "BTMSC-12 低压伺服道闸控制板",
+      "slug": "product-63",
+      "legacyUrl": "/index.php/product/typeid-114-id-63.html",
+      "summary": "巴图姆低压伺服快速道闸系统在智慧城市与社区建设高速发展的今天，停车场的通行效率与管理体验直接关系到物业服务的品质与用户的满意度。传统道闸系统普遍存在的反应迟缓、运行噪音大、机械磨损快、维护成本高等痛点，已成为制约停车管理升级的瓶颈。巴图姆科技，以前瞻性的技术视野和深厚的研发积累，精准聚焦于民用停车快速道闸市场，推出革命性的低压伺服快速道闸整体解决方案。。",
+      "keywords": "道闸栏杆机芯厂家,高速公路etc专用道闸栏杆机,伺服驱动控制版,",
+      "legacyHtml": "<p class=\"ds-markdown-paragraph\" font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;margin-top:0px=\"\" !important;\"=\"\"> <span>巴图姆低压伺服快速道闸系统——重新定义民用停车入口新标准</span> \r\n\t</p>\r\n<p class=\"ds-markdown-paragraph\" font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\">\r\n\t在智慧城市与社区建设高速发展的今天，停车场的通行效率与管理体验直接关系到物业服务的品质与用户的满意度。传统道闸系统普遍存在的反应迟缓、运行噪音大、机械磨损快、维护成本高等痛点，已成为制约停车管理升级的瓶颈。巴图姆科技，以前瞻性的技术视野和深厚的研发积累，精准聚焦于民用停车快速道闸市场，推出革命性的<span>低压伺服快速道闸整体解决方案</span>。我们以“稳定靠谱”为核心承诺，致力于用创新的机电一体化技术，为地产物业、商业综合体、园区、社区等场景，提供高效、静音、耐用的高端道闸产品，助力合作伙伴提升运营效率，优化用户出行体验。\r\n</p>\r\n<p class=\"ds-markdown-paragraph\" font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\"> <span>核心技术突破：自研低压伺服控制主板与正弦波控制算法</span> \r\n\t</p>\r\n<p class=\"ds-markdown-paragraph\" font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\">\r\n\t巴图姆的核心竞争力，源于我们完全自主研发的<span>低压伺服控制主板</span>及其先进的<span>正弦波控制方式</span>。与市场上常见的交流电机或传统变频控制方案截然不同，我们摒弃了复杂的机械传动结构和粗放的电控模式。\r\n</p>\r\n<ul font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\">\r\n<li>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t<span>正弦波精密控制</span>：采用与高端工业伺服同源的正弦波矢量控制技术，实现对电机转矩、速度、位置的精准闭环控制。这使得闸杆的起降过程犹如被无形之手平稳托举，从根本上杜绝了普通道闸起落时的抖动、卡顿现象，实现了真正的<span>起落到位稳定</span>。每一次运行都精准、顺滑，极大地提升了设备的专业质感与可靠形象。\r\n\t</p>\r\n</li>\r\n<li>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t<span>低压直流驱动</span>：工作电压安全可靠，不仅消除了高压带来的潜在风险，也使得系统能效比更高，发热量更小，显著提升了电子元器件的长期工作稳定性与寿命，完美适配民用场景的安全与节能需求。\r\n\t</p>\r\n</li>\r\n\t</ul>\r\n<p class=\"ds-markdown-paragraph\" font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\"> <span>极致性能表现：0.6秒极速响应与绝对静音运行</span> \r\n\t\t</p>\r\n<p class=\"ds-markdown-paragraph\" font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\">\r\n\t在民用停车场高峰时段，每一秒的等待都影响着车流效率与车主心情。巴图姆低压伺服快速道闸，将技术优势转化为令人惊叹的性能指标：\r\n\t</p>\r\n<ul font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\">\r\n\t<li>\r\n\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t<span>0.6秒起降速度</span>：得益于伺服系统瞬时大扭矩输出的特性与优化的机械结构设计，巴图姆道闸实现了从指令下发到闸杆完全到位仅需约0.6秒的极速响应。这一速度远超传统道闸，能显著缩短车辆进出等待时间，大幅提升出入口的通行效率，有效缓解高峰期拥堵。\r\n\t\t</p>\r\n\t</li>\r\n\t<li>\r\n\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t<span>近乎无声的优雅运行</span>：正弦波控制消除了电机换相噪音，直驱或高效传动结构避免了齿轮箱的机械撞击与摩擦声。巴图姆道闸在起降过程中<span>运行状态完全静音</span>，即使在深夜或紧邻住宅区的环境，也不会产生噪音干扰，体现了对周边环境与人文的深度关怀，提升了项目整体品质。\r\n\t\t</p>\r\n\t</li>\r\n</ul>\r\n<p class=\"ds-markdown-paragraph\" font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\"> <span>坚如磐石的可靠性：“稳定靠谱”的系统性承诺</span> \r\n\t</p>\r\n<p class=\"ds-markdown-paragraph\" font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\">\r\n\t“稳定靠谱”并非一句空洞的口号，而是贯穿于巴图姆产品设计、制造与测试每一个环节的工程哲学。\r\n</p>\r\n<ul font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\">\r\n<li>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t<span>无减速机直驱/高效传动设计</span>：我们采用的先进传动方案，要么彻底取消易损的减速齿轮箱，要么使用超高寿命的精密传动部件。这从根源上解决了传统道闸因齿轮磨损、老化导致的间隙增大、运行不稳、需要定期调整维护的顽疾。\r\n\t</p>\r\n</li>\r\n<li>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t<span>超长寿命与免维护设计</span>：核心机芯结构经过严格仿真与寿命测试，关键部件采用特种合金与复合材料，确保在频繁起落的使用场景下，保持长久的精度与稳定性，<span>机芯寿命远超行业平均水平</span>，大幅降低了全生命周期的维护成本与宕机风险。\r\n\t</p>\r\n</li>\r\n<li>\r\n\t<p class=\"ds-markdown-paragraph\">\r\n\t\t<span>智能保护与自适应</span>：控制主板内置多重智能保护算法（如过流、过压、过热、堵转保护等），并能自适应外界环境变化（如风阻、低温）进行扭矩补偿，确保在各种复杂环境下稳定工作，闸杆运行始终坚毅果断。\r\n\t</p>\r\n</li>\r\n\t</ul>\r\n<p class=\"ds-markdown-paragraph\" font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\"> <span>专注民用市场：深度场景化应用与助力产业升级</span> \r\n\t\t</p>\r\n<p class=\"ds-markdown-paragraph\" font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\">\r\n\t巴图姆深刻理解民用停车市场的独特需求：不仅要求性能卓越，更追求成本可控、安装简便、外观协调。我们的快速道闸方案正是为此量身打造：\r\n\t</p>\r\n<ul font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\">\r\n\t<li>\r\n\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t<span>快速部署</span>：产品高度集成化、模块化，安装调试简单快捷，极大缩短项目施工周期。\r\n\t\t</p>\r\n\t</li>\r\n\t<li>\r\n\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t<span>灵活适配</span>：提供多种杆长、款式选择，并能轻松对接市面上主流的车牌识别系统、车位引导系统、云停车管理平台等，助力停车场快速实现智能化升级。\r\n\t\t</p>\r\n\t</li>\r\n\t<li>\r\n\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t<span>经济高效</span>：在提供高端性能的同时，通过优化的设计和规模化生产，控制产品成本，为合作伙伴提供极具竞争力的<span>高性价比</span>选择，真正实现“用得起的高端道闸”。\r\n\t\t</p>\r\n\t</li>\r\n</ul>\r\n<p class=\"ds-markdown-paragraph\" font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\"> <span>结语：选择巴图姆，选择安心与效率</span> \r\n\t</p>\r\n<p class=\"ds-markdown-paragraph\" font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;\"=\"\">\r\n\t巴图姆，不仅是一个道闸品牌，更是您提升停车场管理水平、优化车主服务体验的可靠技术伙伴。我们以自研的核心伺服控制技术为基石，以“极速、静音、稳定、耐用”的产品特质为利刃，直击民用停车道闸市场的痛点。选择巴图姆低压伺服快速道闸，意味着您选择了通行效率的飞跃、运营维护的省心、以及项目品质的彰显。\r\n</p>\r\n<p class=\"ds-markdown-paragraph\" font-size:16px;text-wrap-mode:wrap;background-color:#ffffff;margin-bottom:0px=\"\" !important;\"=\"\">\r\n\t让我们携手，共同推动民用停车入口进入一个更快速、更安静、更可靠的新时代。巴图姆，专注让每一次起落，都值得信赖。\r\n\t</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<ul class=\"clearfix pagws-ul\">\n\t\t\t\t\t\t\t\t\t<li class=\"fl\">上一个：<a href=\"/index.php/product/id-60.html\">速通门翼闸伺服控制器</a></li>\n\t\t\t\t\t\t\t\t\t<li class=\"fr\">下一个：<a href=\"/index.php/product/id-64.html\">NB12 站台屏蔽门专用伺服控制板</a></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>",
+      "images": []
+    },
+    {
+      "legacyId": "64",
+      "categoryLegacyId": "114",
+      "title": "NB12 站台屏蔽门专用伺服控制板",
+      "slug": "product-64",
+      "legacyUrl": "/index.php/product/typeid-114-id-64.html",
+      "summary": "在城市化进程加速与公共安全管理需求日益提升的今天，人行通道闸机作为人员出入管理的关键节点，其运行的精确性、可靠性及适应性已成为衡量场所智能化水平的重要标准。无论是轨道交通站点的客流疏导、智慧楼宇的安保管理，还是场馆展厅的秩序维护，传统闸机系统在响应速度、运行噪音、场景适配及长期稳定性等方面均面临严峻挑战。巴图姆科技，以深厚的运动控制技术积累和敏锐的市场洞察，专精于低压伺服人行闸控制主板的研发与生产，为核心机芯厂商与系统集成商提供高性能、高可靠的“智慧心脏”。",
+      "keywords": "高性能低压伺服控制板,速通门专用控制板,翼闸门禁控制解决方案,地铁屏蔽门控制系统,智能门控伺服驱动器",
+      "legacyHtml": "<p class=\"ds-markdown-paragraph\">\r\n\t<div class=\"dad65929\">\r\n\t\t<div class=\"_4f9bf79 d7dc56a8 _43c05b5\">\r\n\t\t\t<div class=\"ds-message _63c77b1\">\r\n\t\t\t\t<div class=\"ds-markdown\">\r\n\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t巴图姆低压伺服人行闸控制主板——智慧通行核心，驱动多元场景革新\r\n\t\t\t\t\t</p>\r\n\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t在城市化进程加速与公共安全管理需求日益提升的今天，人行通道闸机作为人员出入管理的关键节点，其运行的精确性、可靠性及适应性已成为衡量场所智能化水平的重要标准。无论是轨道交通站点的客流疏导、智慧楼宇的安保管理，还是场馆展厅的秩序维护，传统闸机系统在响应速度、运行噪音、场景适配及长期稳定性等方面均面临严峻挑战。巴图姆科技，以深厚的运动控制技术积累和敏锐的市场洞察，专精于低压伺服人行闸控制主板的研发与生产，为核心机芯厂商与系统集成商提供高性能、高可靠的“智慧心脏”。我们致力于通过自研的核心控制技术，赋能各类人行闸机，实现从稳定运行到智能体验的全面升级。\r\n\t\t\t\t\t</p>\r\n\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t核心引擎：自研低压伺服控制主板与正弦波精准控制\r\n\t\t\t\t\t</p>\r\n\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t巴图姆引领行业变革的基石，是我们完全正向研发的低压伺服控制主板及所采用的先进正弦波控制方式。这不仅是简单的部件升级，更是对传统控制理念的颠覆。\r\n\t\t\t\t\t</p>\r\n\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t\t\t正弦波矢量精准驱动：摒弃常见的方波控制或简易变频技术，我们采用高性能正弦波矢量控制（FOC）算法。它能对电机转矩、转速、位置进行毫秒级实时闭环控制，确保闸门在任何负载与速度曲线下，运动都极其平滑、线性。这直接带来了革命性的&nbsp;“开关到位稳定”&nbsp;——闸门开闭过程无抖动、无冲击，终点位置精准一致，杜绝了因到位不准产生的夹伤风险或通行阻碍，极大提升了设备的安全性与专业质感。\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t\t\t低压直流伺服平台：选用安全、高效的直流低压平台，不仅符合更严苛的电气安全规范，减少安装与使用的安全隐患，同时实现了更高的能源转换效率。系统发热量小，核心电子元器件工作环境更优，为设备在各类复杂环境下的长期稳定可靠运行奠定了坚实基础。\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</li>\r\n\t\t\t\t\t</ul>\r\n\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t广泛适配：灵活赋能多元人行通行场景\r\n\t\t\t\t\t</p>\r\n\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t巴图姆低压伺服控制主板的卓越之处，在于其强大的平台化与可配置性，能够无缝适配并显著提升多种主流人行闸机的性能：\r\n\t\t\t\t\t</p>\r\n\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t\t\t地铁翼闸：为高频次、大客流的轨道交通场景提供支持。极快的响应速度与平稳的开关动作，可显著提升通行效率；静音运行特性，完美契合对噪音敏感的站厅环境；超长的机械与电气寿命，轻松应对日均数万次的开关挑战。\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t\t\t拍打门/摆闸：适用于对通行速度和安全有均衡要求的楼宇、园区入口。精准的力矩控制可实现灵敏的防夹防撞功能；优雅平稳的启停，提升了出入口的科技形象。\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t\t\t半高/全高屏蔽门：常用于安检通道、车站付费区边界等需严格隔离的场所。我们强大的伺服驱动能力，能够稳定驱动更大尺寸与重量的门体；精准的位置控制，确保门扇闭合严丝合缝，有效发挥隔离与安保作用。\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</li>\r\n\t\t\t\t\t</ul>\r\n\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t“稳定靠谱”的系统级可靠性保障\r\n\t\t\t\t\t</p>\r\n\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t我们深刻理解，人行闸机作为基础设施，其稳定靠谱的运行是客户最基本的，也是最重要的要求。巴图姆从设计源头即将可靠性贯穿始终：\r\n\t\t\t\t\t</p>\r\n\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t\t\t无机械迟滞，寿命倍增：通过高精度的伺服控制，可搭配直驱或高效减速电机，从根源上消除传统系统因机械磨损、齿轮间隙带来的精度下降、噪音增大和周期性维护问题，核心控制单元寿命远超行业标准。\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t\t\t全状态智能诊断与保护：主板内置先进的诊断算法，可实时监测电机电流、电压、温度、位置偏差等关键参数，智能识别过载、堵转、异常冲击等状态，并立即执行相应保护，防止设备损坏，保障人员安全。\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t\t\t强大的环境适应性：经过严苛的EMC、高低温、湿热及振动测试，确保主板在各类电磁环境、气候条件下均能稳定工作，适应从地下铁到户外场馆的多样化部署需求。\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</li>\r\n\t\t\t\t\t</ul>\r\n\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t面向集成伙伴的开放与赋能\r\n\t\t\t\t\t</p>\r\n\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t巴图姆定位为专业的核心部件供应商，我们致力于与优秀的机芯制造商、整机厂商及系统集成商建立紧密伙伴关系：\r\n\t\t\t\t\t</p>\r\n\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t\t\t接口开放，易于集成：提供标准化的电气接口与丰富灵活的通讯协议（如RS485、CAN、干接点等），可便捷对接各类读卡器、生物识别模块、中央控制系统。\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t\t\t参数可调，场景定制：通过配套软件，合作伙伴可根据具体闸机类型、门体重量、运行速度、开关模式等需求，灵活调整控制参数，实现性能的深度优化与场景的精准匹配。\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t\t\t赋能创新，共创价值：我们提供稳定可靠的核心控制平台，助力合作伙伴将更多资源聚焦于工业设计、结构创新与市场拓展，共同为客户创造更优质、更智能的人员通行管理解决方案。\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</li>\r\n\t\t\t\t\t</ul>\r\n\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t结语：以核心科技，洞见通行未来\r\n\t\t\t\t\t</p>\r\n\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t每一次顺畅、安全、安静的通行体验背后，都离不开一颗强大而可靠的“心脏”。巴图姆，正是这份可靠力量的提供者。我们专注于低压伺服控制技术在人行通道领域的深度应用，以一颗匠心打磨核心主板，用稳定卓越的性能，驱动闸机行业的智能化革新。\r\n\t\t\t\t\t</p>\r\n\t\t\t\t\t<p class=\"ds-markdown-paragraph\">\r\n\t\t\t\t\t\t选择巴图姆低压伺服人行闸控制主板，不仅是选择了一个高性能部件，更是选择了一位值得信赖的技术伙伴，一个能够助力您的产品在多元竞争中脱颖而出的核心优势。让我们携手，以精准控制为核心，共创智慧通行新生态。\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-theme\">\r\n\t\t\t</div>\r\n\t\t\t<div class=\"ds-flex _0a3d93b\">\r\n\t\t\t\t<div class=\"ds-flex _965abe9 _54866f7\">\r\n\t\t\t\t\t<div class=\"db183363 ds-icon-button ds-icon-button--m ds-icon-button--sizing-container\" tabindex=\"0\" role=\"button\" aria-disabled=\"false\">\r\n\t\t\t\t\t\t<div class=\"ds-icon-button__hover-bg\">\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"ds-icon\">\r\n\t\t\t\t\t\t\t<svg width=\"16\" height=\"16\" viewbox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6.14923 4.02032C7.11191 4.02032 7.87977 4.02017 8.49591 4.07599C9.12122 4.1327 9.65786 4.25188 10.1414 4.53107C10.7201 4.8653 11.2008 5.34591 11.535 5.92462C11.8142 6.40818 11.9333 6.94482 11.9901 7.57013C12.0459 8.18625 12.0457 8.9542 12.0457 9.91681C12.0457 10.8795 12.0459 11.6474 11.9901 12.2635C11.9333 12.8888 11.8142 13.4254 11.535 13.909C11.2008 14.4877 10.7201 14.9683 10.1414 15.3026C9.65786 15.5817 9.12122 15.7009 8.49591 15.7576C7.87977 15.8134 7.1119 15.8133 6.14923 15.8133C5.18661 15.8133 4.41868 15.8134 3.80255 15.7576C3.17724 15.7009 2.6406 15.5817 2.15704 15.3026C1.57834 14.9684 1.09772 14.4877 0.763489 13.909C0.484305 13.4254 0.365123 12.8888 0.308411 12.2635C0.252587 11.6474 0.252747 10.8795 0.252747 9.91681C0.252747 8.95419 0.252603 8.18625 0.308411 7.57013C0.365123 6.94482 0.484305 6.40818 0.763489 5.92462C1.09771 5.3459 1.57833 4.86529 2.15704 4.53107C2.6406 4.25188 3.17724 4.1327 3.80255 4.07599C4.41868 4.02018 5.1866 4.02032 6.14923 4.02032ZM6.14923 5.37775C5.16175 5.37775 4.46628 5.37761 3.9256 5.42657C3.39428 5.47473 3.07853 5.56574 2.83575 5.70587C2.46313 5.92106 2.15348 6.23071 1.93829 6.60333C1.79817 6.84611 1.70715 7.16185 1.659 7.69318C1.61004 8.23385 1.61017 8.92934 1.61017 9.91681C1.61017 10.9043 1.61002 11.5998 1.659 12.1404C1.70715 12.6717 1.79817 12.9875 1.93829 13.2303C2.15349 13.6029 2.46315 13.9126 2.83575 14.1277C3.07853 14.2679 3.39428 14.3589 3.9256 14.407C4.46628 14.456 5.16176 14.4559 6.14923 14.4559C7.13675 14.4559 7.83218 14.456 8.37286 14.407C8.90419 14.3589 9.21993 14.2679 9.46271 14.1277C9.83529 13.9126 10.145 13.6029 10.3602 13.2303C10.5003 12.9875 10.5913 12.6718 10.6395 12.1404C10.6884 11.5998 10.6883 10.9043 10.6883 9.91681C10.6883 8.92935 10.6884 8.23385 10.6395 7.69318C10.5913 7.16185 10.5003 6.84611 10.3602 6.60333C10.145 6.23072 9.8353 5.92107 9.46271 5.70587C9.21993 5.56574 8.90418 5.47473 8.37286 5.42657C7.83218 5.3776 7.13676 5.37775 6.14923 5.37775ZM9.80157 0.367981C10.7637 0.367981 11.5313 0.367886 12.1473 0.423645C12.7725 0.480313 13.3093 0.598765 13.7928 0.877747C14.3716 1.21192 14.852 1.69355 15.1863 2.27228C15.4655 2.75575 15.5857 3.29165 15.6424 3.91681C15.6982 4.53301 15.6971 5.30161 15.6971 6.26447V7.8299C15.6971 8.29265 15.6989 8.58994 15.6649 8.84845C15.4667 10.3525 14.4009 11.5738 12.9832 11.9988V10.5467C13.6973 10.1903 14.2104 9.49662 14.3192 8.67169C14.3387 8.52348 14.3406 8.3358 14.3406 7.8299V6.26447C14.3406 5.27707 14.3398 4.58149 14.2908 4.04083C14.2427 3.50969 14.1526 3.19373 14.0125 2.95099C13.7974 2.5785 13.4875 2.2687 13.1151 2.05353C12.8723 1.91347 12.5563 1.82237 12.0252 1.77423C11.4846 1.72528 10.7888 1.7254 9.80157 1.7254H7.71466C6.75614 1.72559 5.92659 2.27697 5.52325 3.07892H4.07013C4.54215 1.51132 5.99314 0.368192 7.71466 0.367981H9.80157Z\" fill=\"currentColor\"></path></svg>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"ds-focus-ring\">\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<div class=\"db183363 ds-icon-button ds-icon-button--m ds-icon-button--sizing-container\" role=\"button\" aria-disabled=\"false\" tabindex=\"0\">\r\n\t\t\t\t\t\t<div class=\"ds-icon-button__hover-bg\">\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"ds-icon\">\r\n\t\t\t\t\t\t\t<svg width=\"16\" height=\"16\" viewbox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.92139 0.349152C10.3744 0.349234 12.5564 1.5052 13.9558 3.29894L15.1281 2.12759C15.3304 1.92546 15.6767 2.06943 15.6767 2.35538V5.53923C15.6766 5.71626 15.5329 5.85976 15.3559 5.86002H12.171C11.8855 5.8597 11.7426 5.51465 11.9443 5.31249L12.9641 4.29056C11.8237 2.74305 9.98911 1.74106 7.92139 1.74097C4.46439 1.74097 1.66236 4.543 1.66236 8C1.66236 11.457 4.46439 14.259 7.92139 14.259C11.3783 14.2589 14.1804 11.4569 14.1804 8H15.5722C15.5722 12.2251 12.1465 15.6507 7.92139 15.6508C3.69617 15.6508 0.270538 12.2252 0.270538 8C0.270538 3.77478 3.69617 0.349152 7.92139 0.349152Z\" fill=\"currentColor\"></path></svg>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"ds-focus-ring\">\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<div class=\"db183363 ds-icon-button ds-icon-button--m ds-icon-button--sizing-container\" tabindex=\"0\" role=\"button\" aria-disabled=\"false\">\r\n\t\t\t\t\t\t<div class=\"ds-icon-button__hover-bg\">\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"ds-icon\">\r\n\t\t\t\t\t\t\t<svg width=\"16\" height=\"16\" viewbox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8.27861 0.811572C8.81985 0.142194 9.79016 0.0421835 10.4537 0.557601L10.5823 0.669306L10.6065 0.693544L10.6097 0.695652L10.6392 0.725159C11.3549 1.44679 11.6336 2.49468 11.3716 3.47669L11.3705 3.48091L11.361 3.51674L11.36 3.51885L10.8889 5.22604C10.8796 5.25997 10.8706 5.29157 10.8626 5.32088C10.8934 5.32095 10.927 5.32194 10.9627 5.32194H11.9006C12.4263 5.32194 12.783 5.319 13.0651 5.36725C14.8182 5.66719 15.9851 7.34568 15.6564 9.09357C15.6035 9.37487 15.4769 9.7092 15.2939 10.2022L14.337 12.7798C14.1401 13.3104 13.9773 13.7518 13.8101 14.1024C13.6375 14.4645 13.4385 14.7793 13.1441 15.0424C12.9712 15.197 12.7801 15.3303 12.5751 15.4386C12.2259 15.6231 11.8608 15.7 11.4612 15.7358C11.0742 15.7705 10.6034 15.7695 10.0374 15.7695H4.87371C4.08047 15.7695 3.42922 15.7702 2.90728 15.7137C2.37206 15.6557 1.88985 15.5311 1.4667 15.2237C1.22409 15.0474 1.01072 14.8339 0.834405 14.5914C0.52696 14.1682 0.401312 13.686 0.343323 13.1508C0.286761 12.6287 0.28747 11.9769 0.28747 11.1833V9.51405C0.28747 8.84778 0.281286 8.36714 0.399176 7.9565C0.671091 7.00935 1.41109 6.26832 2.35823 5.99638C2.76888 5.87849 3.24952 5.88573 3.91579 5.88573C4.11977 5.88573 4.14542 5.88319 4.16238 5.88046C4.23526 5.86863 4.30403 5.83663 4.35839 5.78667C4.37104 5.77504 4.38755 5.75604 4.51436 5.59488L8.25648 0.838972L8.25754 0.837918L8.27861 0.811572ZM1.69116 11.1833C1.69116 12.0082 1.69211 12.5711 1.73859 13.0001C1.78365 13.4157 1.86467 13.6221 1.96937 13.7662C2.05914 13.8898 2.16727 13.9989 2.29079 14.0887C2.43495 14.1934 2.6421 14.2744 3.05797 14.3195C3.45891 14.3629 3.97631 14.3656 4.71564 14.3659C4.30795 13.8053 4.06447 13.1171 4.06437 12.371V8.59406H5.46807V12.371C5.46832 13.4733 6.3616 14.3669 7.46401 14.3669H10.0374C10.6286 14.3669 11.0269 14.3663 11.3368 14.3385C11.6339 14.3118 11.7956 14.2638 11.9196 14.1983C12.024 14.1431 12.1213 14.0747 12.2094 13.996C12.3139 13.9025 12.4151 13.7678 12.5434 13.4986C12.6774 13.2176 12.8162 12.845 13.0219 12.2909L13.9787 9.71322C14.1848 9.15816 14.253 8.96731 14.278 8.83433C14.4617 7.85692 13.8092 6.91895 12.829 6.75092C12.6956 6.7281 12.4928 6.72458 11.9006 6.72458H10.9627C10.7737 6.72458 10.5693 6.72657 10.4 6.70666C10.2211 6.68562 9.96696 6.63024 9.74764 6.43161C9.64448 6.33811 9.5595 6.2261 9.49683 6.10177C9.36384 5.83784 9.37793 5.57899 9.40515 5.40097C9.43094 5.23261 9.48666 5.03616 9.53688 4.85404L10.0079 3.14579L10.0174 3.11102C10.1488 2.61338 10.0077 2.08338 9.64648 1.71681L9.60854 1.67887L9.55058 1.64304C9.48789 1.62043 9.41419 1.63814 9.36932 1.69362L9.35773 1.70627L9.35878 1.70732L5.61666 6.46217C5.51816 6.58735 5.42231 6.7133 5.30683 6.81942C5.05069 7.05471 4.73119 7.20939 4.3879 7.26519C4.23309 7.29032 4.07507 7.28837 3.91579 7.28837C3.1535 7.28837 2.9191 7.2957 2.74604 7.34528C2.26358 7.48379 1.88558 7.86081 1.74702 8.34325C1.69732 8.51636 1.69116 8.7511 1.69116 9.51405V11.1833Z\" fill=\"currentColor\"></path></svg>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"ds-focus-ring\">\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<div class=\"db183363 ds-icon-button ds-icon-button--m ds-icon-button--sizing-container\" tabindex=\"0\" role=\"button\" aria-disabled=\"false\">\r\n\t\t\t\t\t\t<div class=\"ds-icon-button__hover-bg\">\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"ds-icon\">\r\n\t\t\t\t\t\t\t<svg width=\"16\" height=\"16\" viewbox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.72451 15.1086C7.18929 15.7705 6.22975 15.8694 5.57357 15.3597L5.44643 15.2492L5.42247 15.2253L5.41934 15.2232L5.39016 15.194C4.68239 14.4804 4.40679 13.4442 4.66589 12.473L4.66693 12.4689L4.67631 12.4334L4.67735 12.4314L5.14318 10.7431C5.15243 10.7096 5.1613 10.6783 5.16923 10.6493C5.13878 10.6493 5.10558 10.6483 5.07023 10.6483H4.14274C3.62288 10.6483 3.27015 10.6512 2.9912 10.6035C1.25757 10.3069 0.103662 8.64703 0.42863 6.91855C0.480965 6.64038 0.606164 6.30975 0.787119 5.82224L1.73336 3.27321C1.92812 2.74853 2.08912 2.31209 2.25442 1.96535C2.42515 1.60725 2.62191 1.29594 2.91304 1.03578C3.08408 0.882955 3.273 0.751124 3.47579 0.643948C3.82102 0.461508 4.18214 0.385514 4.57731 0.35007C4.95993 0.315788 5.42553 0.316722 5.98521 0.316722H11.0916C11.876 0.316722 12.52 0.316073 13.0362 0.371954C13.5655 0.429296 14.0423 0.552538 14.4608 0.85654C14.7007 1.03085 14.9117 1.24193 15.086 1.48181C15.3901 1.90027 15.5143 2.3771 15.5717 2.90639C15.6276 3.42269 15.6269 4.06721 15.6269 4.85203V6.50274C15.6269 7.1616 15.633 7.63691 15.5164 8.04299C15.2475 8.97962 14.5158 9.71242 13.5791 9.98134C13.173 10.0979 12.6977 10.0908 12.0389 10.0908C11.8372 10.0908 11.8118 10.0933 11.795 10.096C11.723 10.1077 11.6549 10.1393 11.6012 10.1887C11.5887 10.2002 11.5724 10.219 11.447 10.3784L7.74639 15.0815L7.74535 15.0825L7.72451 15.1086ZM14.2388 4.85203C14.2388 4.03628 14.2379 3.47965 14.1919 3.05541C14.1473 2.64443 14.0672 2.4403 13.9637 2.29779C13.8749 2.17563 13.768 2.06769 13.6458 1.9789C13.5033 1.87533 13.2984 1.79523 12.8872 1.75068C12.4907 1.70773 11.979 1.70512 11.2479 1.70482C11.6511 2.25918 11.8918 2.93968 11.8919 3.67756V7.41251H10.5038V3.67756C10.5036 2.58745 9.62023 1.70378 8.53007 1.70378H5.98521C5.40065 1.70378 5.00679 1.70443 4.70028 1.73192C4.40651 1.7583 4.24662 1.80571 4.12399 1.87052C4.02069 1.92512 3.92452 1.99277 3.8374 2.07061C3.73401 2.16306 3.634 2.29621 3.50705 2.56249C3.37462 2.84028 3.23734 3.20874 3.03393 3.75676L2.08768 6.30578C1.88395 6.85468 1.81646 7.04341 1.79172 7.17491C1.61005 8.14146 2.25533 9.06902 3.22464 9.23518C3.35654 9.25775 3.55717 9.26123 4.14274 9.26123H5.07023C5.25717 9.26123 5.4593 9.25926 5.62672 9.27895C5.80364 9.29976 6.05492 9.35452 6.27179 9.55094C6.37381 9.6434 6.45784 9.75417 6.51982 9.87712C6.65133 10.1381 6.6374 10.3941 6.61048 10.5701C6.58498 10.7366 6.52988 10.9309 6.48022 11.111L6.01439 12.8003L6.00501 12.8347C5.87513 13.3268 6.01464 13.8509 6.37184 14.2134L6.40935 14.2509L6.46667 14.2863C6.52866 14.3087 6.60155 14.2912 6.64591 14.2363L6.65738 14.2238L6.65633 14.2228L10.3569 9.52072C10.4543 9.39693 10.5491 9.27239 10.6633 9.16744C10.9166 8.93477 11.2325 8.7818 11.572 8.72662C11.7251 8.70177 11.8814 8.7037 12.0389 8.7037C12.7927 8.7037 13.0245 8.69645 13.1956 8.64742C13.6727 8.51045 14.0465 8.13762 14.1836 7.66054C14.2327 7.48935 14.2388 7.25721 14.2388 6.50274V4.85203Z\" fill=\"currentColor\"></path></svg>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"ds-focus-ring\">\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<div class=\"db183363 ds-icon-button ds-icon-button--m ds-icon-button--sizing-container\" tabindex=\"0\" role=\"button\" aria-disabled=\"false\">\r\n\t\t\t\t\t\t<div class=\"ds-icon-button__hover-bg\">\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"ds-icon\">\r\n\t\t\t\t\t\t\t<svg width=\"16\" height=\"16\" viewbox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15.7483 11.1003C15.6274 11.8866 15.5288 12.5364 15.3881 13.0496C15.243 13.5789 15.0339 14.0407 14.6455 14.4162C14.5638 14.4951 14.4775 14.5699 14.387 14.6386C13.9568 14.9655 13.4683 15.1011 12.9229 15.1641C12.3944 15.2251 11.7374 15.2245 10.9419 15.2245H5.05805C4.26257 15.2245 3.60557 15.2251 3.077 15.1641C2.53167 15.1011 2.04314 14.9655 1.61293 14.6386C1.52245 14.5699 1.43615 14.4951 1.35444 14.4162C0.96605 14.0407 0.756931 13.5789 0.611809 13.0496C0.471132 12.5364 0.372585 11.8866 0.251617 11.1003L1.64577 10.8863C1.77178 11.7054 1.85788 12.2601 1.97206 12.6767C2.08171 13.0766 2.19757 13.27 2.33437 13.4023C2.376 13.4426 2.4207 13.4807 2.46679 13.5157C2.61837 13.6308 2.82717 13.716 3.23909 13.7636C3.66809 13.8131 4.22946 13.8144 5.05805 13.8144H10.9419C11.7705 13.8144 12.3319 13.8131 12.7609 13.7636C13.1728 13.716 13.3816 13.6308 13.5331 13.5157C13.5792 13.4807 13.6239 13.4426 13.6656 13.4023C13.8024 13.27 13.9182 13.0766 14.0279 12.6767C14.1421 12.2601 14.2282 11.7054 14.3542 10.8863L15.7483 11.1003ZM7.715 0.558333C7.90368 0.527919 8.09626 0.527919 8.28495 0.558333C8.63703 0.61512 8.9129 0.790062 9.14941 0.985266C9.37576 1.1721 9.62515 1.42888 9.90475 1.71624L13.387 5.29485L12.8816 5.78747L12.3763 6.27902L8.89409 2.70041C8.82605 2.63048 8.76283 2.5671 8.70552 2.50866V10.5335H7.29442V2.50866C7.23711 2.5671 7.17389 2.63048 7.10585 2.70041L3.62365 6.27902L3.11832 5.78747L2.61299 5.29485L6.09519 1.71624C6.37479 1.42888 6.62419 1.1721 6.85054 0.985266C7.08704 0.790062 7.36291 0.61512 7.715 0.558333Z\" fill=\"currentColor\"></path></svg>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"ds-focus-ring\">\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t\t\t<div>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n\t<div class=\"_189b4a0\">\r\n\t\t<div class=\"_4ce999d _42b9b3d\">\r\n\t\t\t<div class=\"ds-scroll-area _8dbd25b\">\r\n\t\t\t\t<div class=\"ds-scroll-area__gutters\">\r\n\t\t\t\t\t<div class=\"ds-scroll-area__horizontal-gutter\">\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<div class=\"ds-scroll-area__vertical-gutter\">\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n\t<div class=\"_871cbca\">\r\n\t\t<div class=\"d72636e2\">\r\n\t\t</div>\r\n\t\t<div class=\"aaff8b8f\">\r\n\t\t\t<div class=\"_77cefa5 _3d616d3\">\r\n\t\t\t\t<div class=\"_020ab5b\">\r\n\t\t\t\t\t<div class=\"_24fad49\">\r\n\t\t\t\t\t\t<div class=\"ds-scroll-area__gutters\">\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n</p>\r\n<p class=\"ds-markdown-paragraph\">\r\n\t<span></span>\r\n</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<ul class=\"clearfix pagws-ul\">\n\t\t\t\t\t\t\t\t\t<li class=\"fl\">上一个：<a href=\"/index.php/product/id-63.html\">BTMSC-12 低压伺服道闸控制板</a></li>\n\t\t\t\t\t\t\t\t\t<li class=\"fr\">下一个：<span>没有了</span></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>",
+      "images": []
+    },
+    {
+      "legacyId": "58",
+      "categoryLegacyId": "122",
+      "title": "低压伺服brt快速公交站台屏蔽门机场自动门应用",
+      "slug": "product-58",
+      "legacyUrl": "/index.php/product/typeid-122-id-58.html",
+      "summary": "巴图姆科技引领创新，专注于自主研发设计生产高品质的站台屏蔽门，广泛应用于各类交通场景，包括快速公交站台、机场安检和地铁站台。我们的屏蔽门不仅提升了乘客的安全性和舒适性，还有效优化了乘车体验，减少了风噪和外部环境对乘客的影响。",
+      "keywords": "站台屏蔽门,PSD,半高门,全高门,自动门",
+      "legacyHtml": "<p>\r\n\t<img src=\"/uploadfile/editors/20251222/2025122216570670504.png\" alt=\"\" /><img src=\"/uploadfile/editors/20251222/2025122216585737126.png\" alt=\"\" />\r\n</p>\r\n<p>\r\n\t巴图姆科技引领创新，专注于自主研发设计生产高品质的站台屏蔽门，广泛应用于各类交通场景，包括快速公交站台、机场安检和地铁站台。我们的屏蔽门不仅提升了乘客的安全性和舒适性，还有效优化了乘车体验，减少了风噪和外部环境对乘客的影响。<br />\r\n<br />\r\n<br />\r\n具有独特设计的巴图姆科技屏蔽门，采用高强度材料，确保耐用性和牢固性。无论是在快速公交站台，还是在繁忙的机场安检与地铁站台，我们的屏蔽门均能提供精准的开关控制，保障乘客的安全上下车，并有效隔绝人流与轨道的接触。<br />\r\n<br />\r\n<br />\r\n同时，巴图姆科技的屏蔽门可根据不同场景的需求进行定制，满足多样化的使用环境。凭借卓越的技术背景和严格的质量控制，我们的屏蔽门产品已获得多个行业认证，是您信赖的选择。<br />\r\n<br />\r\n<br />\r\n选择巴图姆科技站台屏蔽门，为您的交通枢纽注入科技与安全的力量。借助我们先进的技术，提升您的设施整体形象，创造更智能化的出行体验。\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240808/2024080817241743026.jpg\" width=\"800\" alt=\"\" /> \r\n</p>\r\n<p>\r\n\t<br />\r\n</p>\r\n<p>\r\n\t<br />\r\n</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<ul class=\"clearfix pagws-ul\">\n\t\t\t\t\t\t\t\t\t<li class=\"fl\">上一个：<span>没有了</span></li>\n\t\t\t\t\t\t\t\t\t<li class=\"fr\">下一个：<span>没有了</span></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20251222/2025122216570670504.png",
+        "/uploadfile/editors/20251222/2025122216585737126.png",
+        "/uploadfile/editors/20240808/2024080817241743026.jpg"
+      ]
+    },
+    {
+      "legacyId": "57",
+      "categoryLegacyId": "115",
+      "title": "巴图姆快速道闸栏杆机机芯",
+      "slug": "product-57",
+      "legacyUrl": "/index.php/product/typeid-115-id-57.html",
+      "summary": "巴图姆伺服行星快速道闸栏杆机机芯方案 抬杆速度0.3秒0.6秒0.9秒适合高速公路ETC闸口及大车流商业主体出入口等。机芯寿命可达800万次。",
+      "keywords": "停车场出入口硬件,停车场专用道闸,停车场专用栏杆机,快速道闸",
+      "legacyHtml": "<p>\r\n\t巴图姆伺服行星快速道闸栏杆机机芯方案 抬杆速度0.3秒0.6秒0.9秒适合高速公路ETC闸口及大车流商业主体出入口等。机芯寿命可达800万次。\r\n</p>\r\n<p>\r\n\t<br />\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240325/2024032513165721801.png\" alt=\"\" /><img src=\"/uploadfile/editors/20240325/2024032513172542039.png\" alt=\"\" /><img src=\"/uploadfile/editors/20240325/2024032513175448686.png\" alt=\"\" /> \r\n</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<ul class=\"clearfix pagws-ul\">\n\t\t\t\t\t\t\t\t\t<li class=\"fl\">上一个：<a href=\"/index.php/product/id-56.html\">巴图姆高速ETC一体化快速道闸栏杆机</a></li>\n\t\t\t\t\t\t\t\t\t<li class=\"fr\">下一个：<span>没有了</span></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240325/2024032513165721801.png",
+        "/uploadfile/editors/20240325/2024032513172542039.png",
+        "/uploadfile/editors/20240325/2024032513175448686.png"
+      ]
+    },
+    {
+      "legacyId": "56",
+      "categoryLegacyId": "115",
+      "title": "巴图姆高速ETC一体化快速道闸栏杆机",
+      "slug": "product-56",
+      "legacyUrl": "/index.php/product/typeid-115-id-56.html",
+      "summary": "巴图姆高速 ETC 专用一体化栏杆机采用先进的低压伺服控制方案，性能卓越，运行稳定。设备实现 0.3 秒 2 米对开和 0.6 秒 3 米单开，响应迅捷，满足高频通行需求。配备 500 万高清车牌识别系统，识别精准高效，确保通行顺畅。机身设计高端大气，融入红叉绿箭灯与警示灯，提升安全性和视觉效果。内置多格层结构，可有效容纳工控机、UPS 等设备，优化空间利用并增强防护能力。整机运行平稳，耐用性强，适应高速公路 ETC 场景的严苛要求，为智能交通提供可靠解决方案。可选配工业空调。",
+      "keywords": "智慧停车,场内停车,无人值守智慧停车,微信支付宝支付停车场",
+      "legacyHtml": "</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<ul class=\"clearfix pagws-ul\">\n\t\t\t\t\t\t\t\t\t<li class=\"fl\">上一个：<span>没有了</span></li>\n\t\t\t\t\t\t\t\t\t<li class=\"fr\">下一个：<a href=\"/index.php/product/id-57.html\">巴图姆快速道闸栏杆机机芯</a></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>",
+      "images": []
+    },
+    {
+      "legacyId": "55",
+      "categoryLegacyId": "114",
+      "title": "BTMSC24巴图姆伺服控制器",
+      "slug": "product-55",
+      "legacyUrl": "/index.php/product/typeid-114-id-55.html",
+      "summary": "巴图姆自研全智能门禁伺服控制器主板，可带无刷也可以带伺服，多路输入输出并可适配不同的功能。可支持现场程序升级，适配不同型号电机门禁。",
+      "keywords": "路边停车,城市智慧停车,无人值守停车系统,微信支付宝支付停车系统,微架构停车系统,视频桩高杆相机",
+      "legacyHtml": "<div>\r\n\t<img src=\"/uploadfile/editors/20240325/2024032513375815674.jpg\" alt=\"\" /><br />\r\n</div>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<ul class=\"clearfix pagws-ul\">\n\t\t\t\t\t\t\t\t\t<li class=\"fl\">上一个：<span>没有了</span></li>\n\t\t\t\t\t\t\t\t\t<li class=\"fr\">下一个：<a href=\"/index.php/product/id-59.html\">BTMSC-36 道闸伺服控制板</a></li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240325/2024032513375815674.jpg"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "legacyId": "303",
+      "categoryLegacyId": null,
+      "title": "轨道交通门禁首选品牌——巴图姆科技",
+      "slug": "news-303",
+      "legacyUrl": "/index.php/news/id-303.html",
+      "publishedAt": "2024-09-09",
+      "summary": "巴图姆科技凭借其在轨道交通门禁系统中的创新技术，成为行业首选品牌。公司为轨道交通站台屏蔽门和AFC闸机提供了高效稳定的低压伺服控制器，确保了高峰时段的大流量安全通行。快速栏杆机作为轨道交通的重要组成部分，也得益于巴图姆科技的技术支持。公司始终专注于门禁技术的创新与优化，为全球轨道交通系统的智能化发展提供了强有力的技术支持。",
+      "keywords": "站台屏蔽门,PSD,半高门,全高门,自动门",
+      "legacyHtml": "<p>\r\n\t巴图姆科技凭借其在轨道交通门禁系统中的创新技术，成为行业首选品牌。公司为轨道交通站台屏蔽门和AFC闸机提供了高效稳定的低压伺服控制器，确保了高峰时段的大流量安全通行。快速栏杆机作为轨道交通的重要组成部分，也得益于巴图姆科技的技术支持。公司始终专注于门禁技术的创新与优化，为全球轨道交通系统的智能化发展提供了强有力的技术支持。\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\r\n</p>\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "302",
+      "categoryLegacyId": null,
+      "title": "轨道交通门禁首选品牌——巴图姆科技",
+      "slug": "news-302",
+      "legacyUrl": "/index.php/news/id-302.html",
+      "publishedAt": "2024-09-09",
+      "summary": "快速栏杆机在高频率通行场景中的表现至关重要，而巴图姆科技的低压伺服门禁控制器为其带来了创新升级。公司通过优化控制器的反应速度和稳定性，确保快速栏杆机能够应对轨道交通站台屏蔽门和AFC闸机等设备的复杂需求。无论是日常使用还是紧急情况下的高效响应，巴图姆科技的产品都表现出色，推动了快速栏杆机市场的技术进步。",
+      "keywords": "快速栏杆机,轨道交通站台屏蔽门,AFC闸机",
+      "legacyHtml": "快速栏杆机在高频率通行场景中的表现至关重要，而巴图姆科技的低压伺服门禁控制器为其带来了创新升级。公司通过优化控制器的反应速度和稳定性，确保快速栏杆机能够应对轨道交通站台屏蔽门和AFC闸机等设备的复杂需求。无论是日常使用还是紧急情况下的高效响应，巴图姆科技的产品都表现出色，推动了快速栏杆机市场的技术进步。<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "298",
+      "categoryLegacyId": null,
+      "title": "巴图姆科技专注轨道交通门禁系统研发",
+      "slug": "news-298",
+      "legacyUrl": "/index.php/news/id-298.html",
+      "publishedAt": "2024-09-09",
+      "summary": "轨道交通系统的门禁设备至关重要，而巴图姆科技专注于此领域的研发，特别是轨道交通站台屏蔽门和AFC闸机的控制系统。通过应用先进的低压伺服技术，公司为这些设备提供了稳定可靠的控制器，确保其在高负荷环境下也能保持高效运行。同时，巴图姆科技的快速栏杆机解决方案也在公共交通领域广受欢迎。未来，公司将继续专注于轨道交通门禁系统的技术突破。",
+      "keywords": "智慧高速,高速自动栏杆机,高速道闸",
+      "legacyHtml": "<p>\r\n\t轨道交通系统的门禁设备至关重要，而巴图姆科技专注于此领域的研发，特别是轨道交通站台屏蔽门和AFC闸机的控制系统。通过应用先进的低压伺服技术，公司为这些设备提供了稳定可靠的控制器，确保其在高负荷环境下也能保持高效运行。同时，巴图姆科技的快速栏杆机解决方案也在公共交通领域广受欢迎。未来，公司将继续专注于轨道交通门禁系统的技术突破。\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\r\n</p>\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "297",
+      "categoryLegacyId": null,
+      "title": "中高端门禁控制器市场的可靠伙伴——巴图姆科技",
+      "slug": "news-297",
+      "legacyUrl": "/index.php/news/id-297.html",
+      "publishedAt": "2024-09-09",
+      "summary": "巴图姆科技以其高品质的低压伺服控制器，成为中高端门禁控制器市场中可靠的合作伙伴。快速栏杆机和轨道交通站台屏蔽门等应用场景要求极高的控制精度和稳定性，而巴图姆科技的产品正是为满足这些需求而设计。AFC闸机在地铁、车站等场所广泛应用，巴图姆科技为其提供了创新的解决方案，确保了交通系统的高效运行。选择巴图姆科技，就是选择了可靠的门禁控制技术。",
+      "keywords": "智慧高速,高速自动栏杆机,高速道闸",
+      "legacyHtml": "巴图姆科技以其高品质的低压伺服控制器，成为中高端门禁控制器市场中可靠的合作伙伴。快速栏杆机和轨道交通站台屏蔽门等应用场景要求极高的控制精度和稳定性，而巴图姆科技的产品正是为满足这些需求而设计。AFC闸机在地铁、车站等场所广泛应用，巴图姆科技为其提供了创新的解决方案，确保了交通系统的高效运行。选择巴图姆科技，就是选择了可靠的门禁控制技术。<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "301",
+      "categoryLegacyId": null,
+      "title": "巴图姆科技驱动快速栏杆机创新升级",
+      "slug": "news-301",
+      "legacyUrl": "/index.php/news/id-301.html",
+      "publishedAt": "2024-09-09",
+      "summary": "快速栏杆机在高频率通行场景中的表现至关重要，而巴图姆科技的低压伺服门禁控制器为其带来了创新升级。公司通过优化控制器的反应速度和稳定性，确保快速栏杆机能够应对轨道交通站台屏蔽门和AFC闸机等设备的复杂需求。无论是日常使用还是紧急情况下的高效响应，巴图姆科技的产品都表现出色，推动了快速栏杆机市场的技术进步。",
+      "keywords": "快速栏杆机,轨道交通站台屏蔽门,AFC闸机",
+      "legacyHtml": "快速栏杆机在高频率通行场景中的表现至关重要，而巴图姆科技的低压伺服门禁控制器为其带来了创新升级。公司通过优化控制器的反应速度和稳定性，确保快速栏杆机能够应对轨道交通站台屏蔽门和AFC闸机等设备的复杂需求。无论是日常使用还是紧急情况下的高效响应，巴图姆科技的产品都表现出色，推动了快速栏杆机市场的技术进步。<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "300",
+      "categoryLegacyId": null,
+      "title": "巴图姆科技：低压伺服控制器的高效之选",
+      "slug": "news-300",
+      "legacyUrl": "/index.php/news/id-300.html",
+      "publishedAt": "2024-09-09",
+      "summary": "巴图姆科技开发的低压伺服门禁控制器为快速栏杆机和轨道交通站台屏蔽门提供了高效的解决方案。凭借其出色的控制精度和响应速度，巴图姆科技的产品在AFC闸机中得到了广泛应用，确保了交通系统的稳定运行。低压伺服技术不仅能够提高设备的工作效率，还减少了能耗，符合可持续发展的要求。巴图姆科技以高效的技术方案赢得了市场的广泛认可。",
+      "keywords": "快速栏杆机,轨道交通站台屏蔽门,AFC闸机",
+      "legacyHtml": "巴图姆科技开发的低压伺服门禁控制器为快速栏杆机和轨道交通站台屏蔽门提供了高效的解决方案。凭借其出色的控制精度和响应速度，巴图姆科技的产品在AFC闸机中得到了广泛应用，确保了交通系统的稳定运行。低压伺服技术不仅能够提高设备的工作效率，还减少了能耗，符合可持续发展的要求。巴图姆科技以高效的技术方案赢得了市场的广泛认可。<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "296",
+      "categoryLegacyId": null,
+      "title": "巴图姆科技：低压伺服门禁技术引领者",
+      "slug": "news-296",
+      "legacyUrl": "/index.php/news/id-296.html",
+      "publishedAt": "2024-09-09",
+      "summary": "作为低压伺服门禁技术的引领者，巴图姆科技专注于快速栏杆机、轨道交通站台屏蔽门和AFC闸机的高效控制。公司产品具备极高的精确度和响应速度，特别适用于轨道交通等高强度使用场景。低压伺服技术不仅保证了设备的安全稳定运行，还减少了能耗，提升了整体系统的效能。巴图姆科技不断通过技术创新引领门禁行业的发展，成为市场上不可或缺的技术供应商。",
+      "keywords": "速通门防水机芯, 摆闸防水机芯, 三棍闸防水机芯,站台屏蔽门",
+      "legacyHtml": "作为低压伺服门禁技术的引领者，巴图姆科技专注于快速栏杆机、轨道交通站台屏蔽门和AFC闸机的高效控制。公司产品具备极高的精确度和响应速度，特别适用于轨道交通等高强度使用场景。低压伺服技术不仅保证了设备的安全稳定运行，还减少了能耗，提升了整体系统的效能。巴图姆科技不断通过技术创新引领门禁行业的发展，成为市场上不可或缺的技术供应商。<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "299",
+      "categoryLegacyId": null,
+      "title": "高端门禁系统的未来，巴图姆科技带您领航",
+      "slug": "news-299",
+      "legacyUrl": "/index.php/news/id-299.html",
+      "publishedAt": "2024-09-09",
+      "summary": "在高端门禁系统市场，巴图姆科技凭借其低压伺服门禁控制器成为行业的领航者。快速栏杆机、轨道交通站台屏蔽门和AFC闸机等核心设备，广泛使用了巴图姆科技的创新技术。公司产品不仅高效、精准，还能适应复杂的交通环境，确保设备在长期运行中的稳定性。未来，巴图姆科技将继续引领高端门禁系统的技术潮流，为各行业的智能化发展提供动力支持。",
+      "keywords": "智慧高速,高速自动栏杆机,高速道闸",
+      "legacyHtml": "在高端门禁系统市场，巴图姆科技凭借其低压伺服门禁控制器成为行业的领航者。快速栏杆机、轨道交通站台屏蔽门和AFC闸机等核心设备，广泛使用了巴图姆科技的创新技术。公司产品不仅高效、精准，还能适应复杂的交通环境，确保设备在长期运行中的稳定性。未来，巴图姆科技将继续引领高端门禁系统的技术潮流，为各行业的智能化发展提供动力支持。<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "295",
+      "categoryLegacyId": null,
+      "title": "巴图姆科技：低压伺服门禁技术引领者",
+      "slug": "news-295",
+      "legacyUrl": "/index.php/news/id-295.html",
+      "publishedAt": "2024-09-09",
+      "summary": "作为低压伺服门禁技术的引领者，巴图姆科技专注于快速栏杆机、轨道交通站台屏蔽门和AFC闸机的高效控制。公司产品具备极高的精确度和响应速度，特别适用于轨道交通等高强度使用场景。低压伺服技术不仅保证了设备的安全稳定运行，还减少了能耗，提升了整体系统的效能。巴图姆科技不断通过技术创新引领门禁行业的发展，成为市场上不可或缺的技术供应商。",
+      "keywords": "速通门防水机芯, 摆闸防水机芯, 三棍闸防水机芯,站台屏蔽门",
+      "legacyHtml": "作为低压伺服门禁技术的引领者，巴图姆科技专注于快速栏杆机、轨道交通站台屏蔽门和AFC闸机的高效控制。公司产品具备极高的精确度和响应速度，特别适用于轨道交通等高强度使用场景。低压伺服技术不仅保证了设备的安全稳定运行，还减少了能耗，提升了整体系统的效能。巴图姆科技不断通过技术创新引领门禁行业的发展，成为市场上不可或缺的技术供应商。<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "294",
+      "categoryLegacyId": "101",
+      "title": "巴图姆科技：低压伺服门禁技术引领者",
+      "slug": "news-294",
+      "legacyUrl": "/index.php/news/typeid-101-id-294.html",
+      "publishedAt": "2024-09-09",
+      "summary": "作为低压伺服门禁技术的引领者，巴图姆科技专注于快速栏杆机、轨道交通站台屏蔽门和AFC闸机的高效控制。公司产品具备极高的精确度和响应速度，特别适用于轨道交通等高强度使用场景。低压伺服技术不仅保证了设备的安全稳定运行，还减少了能耗，提升了整体系统的效能。巴图姆科技不断通过技术创新引领门禁行业的发展，成为市场上不可或缺的技术供应商。",
+      "keywords": "速通门防水机芯, 摆闸防水机芯, 三棍闸防水机芯,站台屏蔽门",
+      "legacyHtml": "作为低压伺服门禁技术的引领者，巴图姆科技专注于快速栏杆机、轨道交通站台屏蔽门和AFC闸机的高效控制。公司产品具备极高的精确度和响应速度，特别适用于轨道交通等高强度使用场景。低压伺服技术不仅保证了设备的安全稳定运行，还减少了能耗，提升了整体系统的效能。巴图姆科技不断通过技术创新引领门禁行业的发展，成为市场上不可或缺的技术供应商。<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "293",
+      "categoryLegacyId": null,
+      "title": "精准控制，中高端场景门禁解决方案专家——巴图姆科技",
+      "slug": "news-293",
+      "legacyUrl": "/index.php/news/id-293.html",
+      "publishedAt": "2024-09-09",
+      "summary": "巴图姆科技以其精准控制技术成为中高端门禁场景解决方案的专家。快速栏杆机和轨道交通站台屏蔽门在高强度应用中需要高度稳定的控制器，而巴图姆科技的低压伺服门禁控制器正是为此设计。AFC闸机作为轨道交通中的核心设备，巴图姆科技为其提供了可靠的技术支持，确保了大流量的稳定通行。未来，巴图姆科技将继续在高端门禁场景中深耕，提供更先进的解决方案。",
+      "keywords": "智慧高速,高速自动栏杆机,高速道闸",
+      "legacyHtml": "巴图姆科技以其精准控制技术成为中高端门禁场景解决方案的专家。快速栏杆机和轨道交通站台屏蔽门在高强度应用中需要高度稳定的控制器，而巴图姆科技的低压伺服门禁控制器正是为此设计。AFC闸机作为轨道交通中的核心设备，巴图姆科技为其提供了可靠的技术支持，确保了大流量的稳定通行。未来，巴图姆科技将继续在高端门禁场景中深耕，提供更先进的解决方案。<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "290",
+      "categoryLegacyId": null,
+      "title": "专注于低压伺服门禁控制器的巴图姆科技",
+      "slug": "news-290",
+      "legacyUrl": "/index.php/news/id-290.html",
+      "publishedAt": "2024-09-09",
+      "summary": "巴图姆科技专注于低压伺服门禁控制器的研发，致力于为快速栏杆机、轨道交通站台屏蔽门和AFC闸机提供高效、智能的控制解决方案。公司通过自主创新，将低压伺服技术成功应用于多种门禁设备中，提升了系统的运行效率和安全性。巴图姆科技的产品广泛应用于轨道交通等高端场景，成为门禁控制系统的首选。未来，公司将继续加强技术研发，为客户提供更高质量的产品和服务。",
+      "keywords": "快速栏杆机,轨道交通站台屏蔽门,AFC闸机",
+      "legacyHtml": "巴图姆科技专注于低压伺服门禁控制器的研发，致力于为快速栏杆机、轨道交通站台屏蔽门和AFC闸机提供高效、智能的控制解决方案。公司通过自主创新，将低压伺服技术成功应用于多种门禁设备中，提升了系统的运行效率和安全性。巴图姆科技的产品广泛应用于轨道交通等高端场景，成为门禁控制系统的首选。未来，公司将继续加强技术研发，为客户提供更高质量的产品和服务。<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "284",
+      "categoryLegacyId": null,
+      "title": "快速栏杆机领导者——巴图姆科技",
+      "slug": "news-284",
+      "legacyUrl": "/index.php/news/id-284.html",
+      "publishedAt": "2024-09-09",
+      "summary": "在快速栏杆机领域，巴图姆科技通过自主研发的低压伺服控制器，成为了行业的领导者。其产品被广泛应用于高流量、高频率的场景，如地铁站、机场等。快速栏杆机的核心是速度和可靠性，而巴图姆科技的技术正是为解决这些问题而设计。轨道交通站台屏蔽门和AFC闸机也是巴图姆科技专注的领域，公司为这些设备提供了高效的控制解决方案，助力轨道交通系统的安全与稳定。",
+      "keywords": "道闸栏杆机芯厂家,高速公路etc专用道闸栏杆机,伺服驱动控制版,",
+      "legacyHtml": "<p>\r\n\t在快速栏杆机领域，巴图姆科技通过自主研发的低压伺服控制器，成为了行业的领导者。其产品被广泛应用于高流量、高频率的场景，如地铁站、机场等。快速栏杆机的核心是速度和可靠性，而巴图姆科技的技术正是为解决这些问题而设计。轨道交通站台屏蔽门和AFC闸机也是巴图姆科技专注的领域，公司为这些设备提供了高效的控制解决方案，助力轨道交通系统的安全与稳定。\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090909562339077.jpg\" alt=\"\" width=\"800\" height=\"600\" title=\"\" align=\"\" />\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\r\n</p>\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090909562339077.jpg",
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "285",
+      "categoryLegacyId": null,
+      "title": "巴图姆科技助力轨道交通门禁的安全与效率",
+      "slug": "news-285",
+      "legacyUrl": "/index.php/news/id-285.html",
+      "publishedAt": "2024-09-09",
+      "summary": "巴图姆科技以提升轨道交通的安全与效率为目标，专注于低压伺服门禁控制器的研发。轨道交通站台屏蔽门和AFC闸机是地铁等交通系统中不可或缺的设备，其运作的稳定性直接关系到乘客的安全和通行效率。巴图姆科技为这些设备提供了高效的控制系统，保证在高峰时段也能快速响应并稳定运行。公司不断优化其技术，致力于为全球的轨道交通系统提供一流的解决方案。",
+      "keywords": "站台屏蔽门,PSD,半高门,全高门,自动门",
+      "legacyHtml": "<p>\r\n\t巴图姆科技以提升轨道交通的安全与效率为目标，专注于低压伺服门禁控制器的研发。轨道交通站台屏蔽门和AFC闸机是地铁等交通系统中不可或缺的设备，其运作的稳定性直接关系到乘客的安全和通行效率。巴图姆科技为这些设备提供了高效的控制系统，保证在高峰时段也能快速响应并稳定运行。公司不断优化其技术，致力于为全球的轨道交通系统提供一流的解决方案。\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090909562339077.jpg\" alt=\"\" width=\"800\" height=\"600\" title=\"\" align=\"\" />\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\r\n</p>\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090909562339077.jpg",
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "292",
+      "categoryLegacyId": null,
+      "title": "巴图姆科技——快速栏杆机领域的创新驱动者",
+      "slug": "news-292",
+      "legacyUrl": "/index.php/news/id-292.html",
+      "publishedAt": "2024-09-09",
+      "summary": "巴图姆科技凭借其创新的低压伺服技术，在快速栏杆机领域取得了显著成果。公司的门禁控制器广泛应用于轨道交通站台屏蔽门和AFC闸机，特别适合高速、高频次通行的应用场景。快速栏杆机的控制器不仅反应速度快，而且极具稳定性，能够适应复杂多变的交通环境。巴图姆科技持续在门禁控制领域进行技术创新，成为快速栏杆机市场中的领军企业。",
+      "keywords": "智慧高速,高速自动栏杆机,高速道闸",
+      "legacyHtml": "巴图姆科技凭借其创新的低压伺服技术，在快速栏杆机领域取得了显著成果。公司的门禁控制器广泛应用于轨道交通站台屏蔽门和AFC闸机，特别适合高速、高频次通行的应用场景。快速栏杆机的控制器不仅反应速度快，而且极具稳定性，能够适应复杂多变的交通环境。巴图姆科技持续在门禁控制领域进行技术创新，成为快速栏杆机市场中的领军企业。<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "288",
+      "categoryLegacyId": null,
+      "title": "打造中高端门禁系统的标杆企业——巴图姆科技",
+      "slug": "news-288",
+      "legacyUrl": "/index.php/news/id-288.html",
+      "publishedAt": "2024-09-09",
+      "summary": "巴图姆科技致力于成为中高端门禁系统领域的标杆企业，尤其在快速栏杆机、轨道交通站台屏蔽门和AFC闸机等核心应用中，持续引领创新。公司以低压伺服技术为基础，开发出高性能的门禁控制器，满足了高端场景对安全性和稳定性的高标准要求。凭借其先进的研发能力和严格的质量管理，巴图姆科技赢得了客户的信赖，成为中高端门禁系统市场的可靠合作伙伴。",
+      "keywords": "站台屏蔽门,PSD,半高门,全高门,自动门",
+      "legacyHtml": "巴图姆科技致力于成为中高端门禁系统领域的标杆企业，尤其在快速栏杆机、轨道交通站台屏蔽门和AFC闸机等核心应用中，持续引领创新。公司以低压伺服技术为基础，开发出高性能的门禁控制器，满足了高端场景对安全性和稳定性的高标准要求。凭借其先进的研发能力和严格的质量管理，巴图姆科技赢得了客户的信赖，成为中高端门禁系统市场的可靠合作伙伴。<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "291",
+      "categoryLegacyId": null,
+      "title": "巴图姆科技：中高端门禁的全新解决方案",
+      "slug": "news-291",
+      "legacyUrl": "/index.php/news/id-291.html",
+      "publishedAt": "2024-09-09",
+      "summary": "巴图姆科技致力于为中高端门禁场景提供全新解决方案，尤其在快速栏杆机和轨道交通站台屏蔽门领域，展现了出色的技术实力。公司研发的低压伺服门禁控制器在AFC闸机中应用广泛，凭借快速响应和高效性能，满足了高流量场景下的严苛需求。巴图姆科技将持续优化其控制技术，为各种复杂环境中的中高端门禁系统提供更安全、更可靠的技术支持。",
+      "keywords": "快速栏杆机,轨道交通站台屏蔽门,AFC闸机",
+      "legacyHtml": "<p>\r\n\t<span><span></span><span>巴图姆科技致力于为中高端门禁场景提供全新解决方案，尤其在快速栏杆机和轨道交通站台屏蔽门领域，展现了出色的技术实力。公司研发的低压伺服门禁控制器在AFC闸机中应用广泛，凭借快速响应和高效性能，满足了高流量场景下的严苛需求。巴图姆科技将持续优化其控制技术，为各种复杂环境中的中高端门禁系统提供更安全、更可靠的技术支持。</span></span>\r\n</p>\r\n<p>\r\n\t<span><span><img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" /></span></span>\r\n</p>\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "289",
+      "categoryLegacyId": null,
+      "title": "轨道交通门禁控制的先锋，巴图姆科技",
+      "slug": "news-289",
+      "legacyUrl": "/index.php/news/id-289.html",
+      "publishedAt": "2024-09-09",
+      "summary": "在轨道交通门禁控制领域，巴图姆科技凭借其先进的低压伺服门禁控制器成为行业先锋。公司为轨道交通站台屏蔽门和AFC闸机提供了高效、可靠的控制解决方案，确保了系统的安全运行。快速栏杆机也是巴图姆科技重点关注的领域，其自主研发的控制器大大提升了栏杆机的运行速度和稳定性。通过不断的技术创新，巴图姆科技为全球轨道交通系统的现代化发展贡献力量。",
+      "keywords": "快速栏杆机,轨道交通站台屏蔽门,AFC闸机",
+      "legacyHtml": "在轨道交通门禁控制领域，巴图姆科技凭借其先进的低压伺服门禁控制器成为行业先锋。公司为轨道交通站台屏蔽门和AFC闸机提供了高效、可靠的控制解决方案，确保了系统的安全运行。快速栏杆机也是巴图姆科技重点关注的领域，其自主研发的控制器大大提升了栏杆机的运行速度和稳定性。通过不断的技术创新，巴图姆科技为全球轨道交通系统的现代化发展贡献力量。<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "281",
+      "categoryLegacyId": null,
+      "title": "巴图姆科技：高端场景门禁系统解决方案",
+      "slug": "news-281",
+      "legacyUrl": "/index.php/news/id-281.html",
+      "publishedAt": "2024-09-09",
+      "summary": "在中高端门禁系统领域，巴图姆科技为快速栏杆机、轨道交通站台屏蔽门和AFC闸机提供了全面的解决方案。公司自主研发的低压伺服门禁控制器具备出色的稳定性和响应速度，能够适应复杂的高强度使用场景。无论是机场、地铁还是商场等高端环境，巴图姆科技的产品都能高效、可靠地保障通行安全和便捷。随着智能城市的兴起，巴图姆科技将不断优化其产品，为高端场景提供最优质的门禁控制方案。",
+      "keywords": "快速栏杆机,轨道交通站台屏蔽门,AFC闸机",
+      "legacyHtml": "<p>\r\n\t在中高端门禁系统领域，巴图姆科技为快速栏杆机、轨道交通站台屏蔽门和AFC闸机提供了全面的解决方案。公司自主研发的低压伺服门禁控制器具备出色的稳定性和响应速度，能够适应复杂的高强度使用场景。无论是机场、地铁还是商场等高端环境，巴图姆科技的产品都能高效、可靠地保障通行安全和便捷。随着智能城市的兴起，巴图姆科技将不断优化其产品，为高端场景提供最优质的门禁控制方案。\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090908390972284.png\" alt=\"\" />\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\r\n</p>\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908390972284.png",
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "282",
+      "categoryLegacyId": null,
+      "title": "创新低压伺服门禁控制器，巴图姆科技领航",
+      "slug": "news-282",
+      "legacyUrl": "/index.php/news/id-282.html",
+      "publishedAt": "2024-09-09",
+      "summary": "巴图姆科技专注于创新低压伺服门禁控制器的研发和生产，旨在为快速栏杆机和轨道交通站台屏蔽门等应用场景提供最先进的控制技术。AFC闸机作为轨道交通的核心设施，其稳定性和安全性尤为重要。巴图姆科技通过持续的技术创新，提升了控制器的精准性和响应速度，使设备能够在高强度环境下保持平稳运行。巴图姆科技不仅仅是门禁控制器的制造商，更是引领行业发展的创新者。",
+      "keywords": "道闸栏杆机芯厂家,高速公路etc专用道闸栏杆机,伺服驱动控制版,",
+      "legacyHtml": "巴图姆科技专注于创新低压伺服门禁控制器的研发和生产，旨在为快速栏杆机和轨道交通站台屏蔽门等应用场景提供最先进的控制技术。AFC闸机作为轨道交通的核心设施，其稳定性和安全性尤为重要。巴图姆科技通过持续的技术创新，提升了控制器的精准性和响应速度，使设备能够在高强度环境下保持平稳运行。巴图姆科技不仅仅是门禁控制器的制造商，更是引领行业发展的创新者。<img src=\"/uploadfile/editors/20240909/2024090908390972284.png\" alt=\"\" /><img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908390972284.png",
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "283",
+      "categoryLegacyId": null,
+      "title": "巴图姆科技，专注于中高端门禁技术",
+      "slug": "news-283",
+      "legacyUrl": "/index.php/news/id-283.html",
+      "publishedAt": "2024-09-09",
+      "summary": "巴图姆科技凭借其在低压伺服技术方面的深厚积累，专注于为中高端门禁场景提供优质解决方案。快速栏杆机、轨道交通站台屏蔽门和AFC闸机是其产品应用的核心领域。公司产品不仅具备高效的控制性能，还具备极强的可靠性，能够长时间在复杂环境下稳定运行。无论是高流量的公共交通设施，还是要求严苛的高端场所，巴图姆科技的产品都能满足各种需求。",
+      "keywords": "智慧高速,高速自动栏杆机,高速道闸",
+      "legacyHtml": "<p>\r\n\t巴图姆科技凭借其在低压伺服技术方面的深厚积累，专注于为中高端门禁场景提供优质解决方案。快速栏杆机、轨道交通站台屏蔽门和AFC闸机是其产品应用的核心领域。公司产品不仅具备高效的控制性能，还具备极强的可靠性，能够长时间在复杂环境下稳定运行。无论是高流量的公共交通设施，还是要求严苛的高端场所，巴图姆科技的产品都能满足各种需求。\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090908390972284.png\" alt=\"\" /><img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\r\n</p>\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908390972284.png",
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "277",
+      "categoryLegacyId": null,
+      "title": "巴图姆科技：低压伺服门禁控制器的专家",
+      "slug": "news-277",
+      "legacyUrl": "/index.php/news/id-277.html",
+      "publishedAt": "2024-09-09",
+      "summary": "巴图姆科技凭借其在低压伺服控制技术方面的创新，成为门禁控制器领域的佼佼者。公司专注于快速栏杆机、轨道交通站台屏蔽门和AFC闸机等关键应用场景的研发，确保产品具备高效稳定的运行性能。低压伺服技术的应用不仅提升了设备的反应速度，还大大减少了能耗，符合现代化智能城市建设的需求。巴图姆科技的控制器广泛应用于中高端门禁系统，特别适用于轨道交通等复杂、高强度的环境，提供稳定的门禁控制解决方案。",
+      "keywords": "快速栏杆机,轨道交通站台屏蔽门,AFC闸机",
+      "legacyHtml": "<p>\r\n\t巴图姆科技凭借其在低压伺服控制技术方面的创新，成为门禁控制器领域的佼佼者。公司专注于快速栏杆机、轨道交通站台屏蔽门和AFC闸机等关键应用场景的研发，确保产品具备高效稳定的运行性能。低压伺服技术的应用不仅提升了设备的反应速度，还大大减少了能耗，符合现代化智能城市建设的需求。巴图姆科技的控制器广泛应用于中高端门禁系统，特别适用于轨道交通等复杂、高强度的环境，提供稳定的门禁控制解决方案。\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090908390972284.png\" alt=\"\" />\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\r\n</p>\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908390972284.png",
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "280",
+      "categoryLegacyId": null,
+      "title": "快速栏杆机与轨道交通门禁首选——巴图姆科技",
+      "slug": "news-280",
+      "legacyUrl": "/index.php/news/id-280.html",
+      "publishedAt": "2024-09-09",
+      "summary": "巴图姆科技凭借自主研发的低压伺服控制器，树立了行业新标准。公司专注于中高端门禁场景，特别是在快速栏杆机和轨道交通站台屏蔽门等关键设备的应用上有显著成果。低压伺服技术为AFC闸机提供了更高效的运作方式，不仅提高了设备的使用寿命，还降低了能耗。巴图姆科技的控制器为各类复杂场景下的门禁系统提供了稳定可靠的解决方案，是未来门禁技术发展的重要推动力量。",
+      "keywords": "快速栏杆机,轨道交通站台屏蔽门,AFC闸机",
+      "legacyHtml": "<p>\r\n\t巴图姆科技凭借自主研发的低压伺服控制器，树立了行业新标准。公司专注于中高端门禁场景，特别是在快速栏杆机和轨道交通站台屏蔽门等关键设备的应用上有显著成果。低压伺服技术为AFC闸机提供了更高效的运作方式，不仅提高了设备的使用寿命，还降低了能耗。巴图姆科技的控制器为各类复杂场景下的门禁系统提供了稳定可靠的解决方案，是未来门禁技术发展的重要推动力量。\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090908390972284.png\" alt=\"\" /><img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\r\n</p>\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908390972284.png",
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "287",
+      "categoryLegacyId": null,
+      "title": "高效低压伺服控制器，巴图姆科技品质保障",
+      "slug": "news-287",
+      "legacyUrl": "/index.php/news/id-287.html",
+      "publishedAt": "2024-09-09",
+      "summary": "巴图姆科技凭借其先进的低压伺服控制技术，为快速栏杆机和轨道交通站台屏蔽门等关键应用场景提供了高效、可靠的解决方案。AFC闸机作为轨道交通的重要设施，其门禁控制器的质量直接影响到系统的运行效率和安全性。巴图姆科技的控制器以其高效的响应速度和稳定的性能获得了市场的高度认可，为各类场景下的门禁系统提供了强大的技术保障。",
+      "keywords": "道闸栏杆机芯厂家,高速公路etc专用道闸栏杆机,伺服驱动控制版,",
+      "legacyHtml": "<p>\r\n\tv巴图姆科技凭借其先进的低压伺服控制技术，为快速栏杆机和轨道交通站台屏蔽门等关键应用场景提供了高效、可靠的解决方案。AFC闸机作为轨道交通的重要设施，其门禁控制器的质量直接影响到系统的运行效率和安全性。巴图姆科技的控制器以其高效的响应速度和稳定的性能获得了市场的高度认可，为各类场景下的门禁系统提供了强大的技术保障。\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\r\n</p>\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "278",
+      "categoryLegacyId": null,
+      "title": "专注中高端门禁系统，巴图姆科技引领未来",
+      "slug": "news-278",
+      "legacyUrl": "/index.php/news/id-278.html",
+      "publishedAt": "2024-09-09",
+      "summary": "巴图姆科技致力于提供中高端门禁控制解决方案，特别是在快速栏杆机和轨道交通站台屏蔽门等领域表现突出。公司通过研发低压伺服门禁控制器，为智能门禁系统注入新活力。巴图姆科技的产品广泛应用于AFC闸机等公共交通领域，其高效、稳定的控制性能得到了用户的一致好评。未来，巴图姆科技将继续引领门禁技术的创新与发展，为中高端场景提供更智能、安全的门禁控制系统。",
+      "keywords": "快速栏杆机,轨道交通站台屏蔽门,AFC闸机",
+      "legacyHtml": "<p>\r\n\t巴图姆科技致力于提供中高端门禁控制解决方案，特别是在快速栏杆机和轨道交通站台屏蔽门等领域表现突出。公司通过研发低压伺服门禁控制器，为智能门禁系统注入新活力。巴图姆科技的产品广泛应用于AFC闸机等公共交通领域，其高效、稳定的控制性能得到了用户的一致好评。未来，巴图姆科技将继续引领门禁技术的创新与发展，为中高端场景提供更智能、安全的门禁控制系统。\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090908390972284.png\" alt=\"\" />\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\r\n</p>\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908390972284.png",
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "279",
+      "categoryLegacyId": null,
+      "title": "巴图姆科技：轨道交通门禁领域的创新者",
+      "slug": "news-279",
+      "legacyUrl": "/index.php/news/id-279.html",
+      "publishedAt": "2024-09-09",
+      "summary": "在轨道交通领域，巴图姆科技以其创新的低压伺服控制技术为行业带来了全新的门禁解决方案。无论是快速栏杆机还是轨道交通站台屏蔽门，巴图姆科技的产品都能在高速、高强度的运营环境中提供稳定可靠的性能。AFC闸机作为轨道交通的关键设备，巴图姆科技为其提供了高效、安全的控制系统，大大提升了通行效率。巴图姆科技将继续推动轨道交通门禁技术的创新，为未来智能交通保驾护航。",
+      "keywords": "快速栏杆机,轨道交通站台屏蔽门,AFC闸机",
+      "legacyHtml": "<p>\r\n\t在轨道交通领域，巴图姆科技以其创新的低压伺服控制技术为行业带来了全新的门禁解决方案。无论是快速栏杆机还是轨道交通站台屏蔽门，巴图姆科技的产品都能在高速、高强度的运营环境中提供稳定可靠的性能。AFC闸机作为轨道交通的关键设备，巴图姆科技为其提供了高效、安全的控制系统，大大提升了通行效率。巴图姆科技将继续推动轨道交通门禁技术的创新，为未来智能交通保驾护航。\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090908390972284.png\" alt=\"\" />\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\r\n</p>\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908390972284.png",
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    },
+    {
+      "legacyId": "276",
+      "categoryLegacyId": null,
+      "title": "行业首创防水速通门闸机",
+      "slug": "news-276",
+      "legacyUrl": "/index.php/news/id-276.html",
+      "publishedAt": "2024-06-28",
+      "summary": "随着科技的不断进步，智能设备和机械设备在日常生活和工作中的应用越来越广泛。防水和静音技术成为了设备设计中的关键要素，尤其在速通门领域更是如此。速通门作为人流控制的重要设备，其稳定性和可靠性直接影响到使用者的体验和安全。因此，速通门的防水和静音功能备受关注。",
+      "keywords": "速通门防水机芯, 摆闸防水机芯, 三棍闸防水机芯,站台屏蔽门",
+      "legacyHtml": "<h3>\r\n\t背景介绍\r\n</h3>\r\n<p>\r\n\t随着科技的不断进步，智能设备和机械设备在日常生活和工作中的应用越来越广泛。防水和静音技术成为了设备设计中的关键要素，尤其在速通门领域更是如此。速通门作为人流控制的重要设备，其稳定性和可靠性直接影响到使用者的体验和安全。因此，速通门的防水和静音功能备受关注。\r\n</p>\r\n<h3>\r\n\t行业首创防水静音速通门机芯\r\n</h3>\r\n<p>\r\n\t近年来，市场上推出了一款行业首创的防水静音速通门机芯，其突破性设计为解决防水问题提供了全新的解决方案。这款机芯的设计和制造过程注重了以下几个方面：\r\n</p>\r\n<ol>\r\n\t<li>\r\n\t\t<p>\r\n\t\t\t<strong>高级防水技术</strong>：\r\n\t\t</p>\r\n\t\t<ul>\r\n\t\t\t<li>\r\n\t\t\t\t该速通门机芯采用了IP68级防水技术，确保在恶劣的环境下依然能稳定运行。IP68防护等级代表了完全防尘并可在水下长时间浸泡而不受影响[<a rel=\"noreferrer\" target=\"_new\" href=\"https://www.vivo.com.cn/service/questions/all?categoryId=156&amp;questionId=1143\">1</a>]。\r\n\t\t\t</li>\r\n\t\t</ul>\r\n\t</li>\r\n\t<li>\r\n\t\t<p>\r\n\t\t\t<strong>静音设计</strong>：\r\n\t\t</p>\r\n\t\t<ul>\r\n\t\t\t<li>\r\n\t\t\t\t机芯内部采用了五维降噪技术，有效降低了运行噪音。通过优化机械结构和选用高质量的降噪材料，设备在运行时几乎无声，使其在公共场合中使用更加人性化[<a rel=\"noreferrer\" target=\"_new\" href=\"https://q.stock.sohu.com/cn,gg,000333,10228214991.shtml\">2</a>]。\r\n\t\t\t</li>\r\n\t\t</ul>\r\n\t</li>\r\n\t<li>\r\n\t\t<p>\r\n\t\t\t<strong>高效运作</strong>：\r\n\t\t</p>\r\n\t\t<ul>\r\n\t\t\t<li>\r\n\t\t\t\t速通门机芯的设计不仅注重防水和静音，还在流速和运作效率上有所提升。采用独创的飞瀑系统，使流速提升36%，从而提高了通行效率[<a rel=\"noreferrer\" target=\"_new\" href=\"https://q.stock.sohu.com/cn,gg,000333,10228214991.shtml\">2</a>]。\r\n\t\t\t</li>\r\n\t\t</ul>\r\n\t</li>\r\n</ol>\r\n<h3>\r\n\t实际应用\r\n</h3>\r\n<p>\r\n\t这款防水静音速通门机芯已经在多个高端场所中得到应用，如机场、地铁站、办公楼等。在这些场所中，速通门的高效、稳定运行为大量人员的快速通过提供了保障，同时静音设计也提高了使用环境的舒适度。\r\n</p>\r\n<h3>\r\n\t总结\r\n</h3>\r\n<p>\r\n\t行业首创的防水静音速通门机芯以其独特的技术优势，解决了传统速通门在防水和降噪方面的难题。它不仅提高了设备的可靠性和耐用性，也为使用者提供了更好的体验。随着技术的不断进步，相信未来会有更多类似的创新产品问世，为我们的生活和工作带来更多便利。\r\n</p>\t\t\t\t\t</div>",
+      "images": []
+    },
+    {
+      "legacyId": "286",
+      "categoryLegacyId": null,
+      "title": "巴图姆科技：智能低压伺服门禁的未来",
+      "slug": "news-286",
+      "legacyUrl": "/index.php/news/id-286.html",
+      "publishedAt": "2024-09-09",
+      "summary": "智能门禁控制系统是未来城市建设的重要组成部分，而巴图姆科技在此领域的创新推动了行业的发展。公司专注于低压伺服门禁控制器的研发，为快速栏杆机、轨道交通站台屏蔽门和AFC闸机提供了智能化解决方案。通过数据采集和实时分析，巴图姆科技的门禁系统能够高效识别并处理各种复杂情况，确保通行的安全与顺畅。未来，巴图姆科技将继续在智能门禁控制领域开拓前行，引领行业创新。",
+      "keywords": "智慧高速,高速自动栏杆机,高速道闸",
+      "legacyHtml": "<p>\r\n\t智能门禁控制系统是未来城市建设的重要组成部分，而巴图姆科技在此领域的创新推动了行业的发展。公司专注于低压伺服门禁控制器的研发，为快速栏杆机、轨道交通站台屏蔽门和AFC闸机提供了智能化解决方案。通过数据采集和实时分析，巴图姆科技的门禁系统能够高效识别并处理各种复杂情况，确保通行的安全与顺畅。未来，巴图姆科技将继续在智能门禁控制领域开拓前行，引领行业创新。\r\n</p>\r\n<p>\r\n\t<img src=\"/uploadfile/editors/20240909/2024090908390972284.png\" alt=\"\" /><img src=\"/uploadfile/editors/20240909/2024090908401262497.png\" alt=\"\" />\r\n</p>\t\t\t\t\t</div>",
+      "images": [
+        "/uploadfile/editors/20240909/2024090908390972284.png",
+        "/uploadfile/editors/20240909/2024090908401262497.png"
+      ]
+    }
+  ]
+}

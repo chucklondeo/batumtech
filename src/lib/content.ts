@@ -4,6 +4,7 @@ import { getPayload } from 'payload'
 export type PublicContent = {
   id: number | string
   legacyId?: string | null
+  legacyHtml?: string | null
   publishedAt?: string | null
   seo?: { description?: string | null; noIndex?: boolean | null; title?: string | null } | null
   slug: string

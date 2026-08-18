@@ -1,5 +1,5 @@
 import { createHash } from 'node:crypto'
-import { mkdir, writeFile } from 'node:fs/promises'
+import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 
 const legacyOrigin = 'https://batumtech.com'
@@ -37,6 +37,23 @@ const pageUrls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map((match) => {
 
 const assetUrls = new Set()
 const pageErrors = []
+
+try {
+  const exported = JSON.parse(await readFile(path.resolve('docs/legacy-content-export.json'), 'utf8'))
+  for (const item of [...(exported.products || []), ...(exported.news || [])]) {
+    for (const raw of item.images || []) {
+      const asset = new URL(raw, legacyOrigin)
+      if (asset.origin !== legacyOrigin) continue
+      if (!allowedPrefixes.some((prefix) => asset.pathname.startsWith(prefix))) continue
+      if (!imagePattern.test(asset.pathname)) continue
+      asset.search = ''
+      asset.hash = ''
+      assetUrls.add(asset.toString())
+    }
+  }
+} catch (error) {
+  if (error?.code !== 'ENOENT') throw error
+}
 
 for (let offset = 0; offset < pageUrls.length; offset += 8) {
   const batch = pageUrls.slice(offset, offset + 8)

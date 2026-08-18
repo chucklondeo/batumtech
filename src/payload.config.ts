@@ -1,6 +1,7 @@
 import { postgresAdapter } from '@payloadcms/db-postgres'
 import { multiTenantPlugin } from '@payloadcms/plugin-multi-tenant'
 import { lexicalEditor } from '@payloadcms/richtext-lexical'
+import { createHash } from 'node:crypto'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { buildConfig } from 'payload'
@@ -17,12 +18,16 @@ import { Users } from './collections/Users'
 
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
+const databaseUrl = process.env.DATABASE_URL || ''
+const payloadSecret = process.env.PAYLOAD_SECRET || (databaseUrl
+  ? createHash('sha256').update(`batumtech-payload:${databaseUrl}`).digest('hex')
+  : '')
 
 export default buildConfig({
   admin: { user: Users.slug },
   collections: [Users, Tenants, Media, Categories, Products, News, Cases, SiteSettings, Redirects],
   db: postgresAdapter({
-    pool: { connectionString: process.env.DATABASE_URL },
+    pool: { connectionString: databaseUrl },
     push: process.env.PAYLOAD_DB_PUSH === 'true',
   }),
   editor: lexicalEditor(),
@@ -41,7 +46,7 @@ export default buildConfig({
       },
     }),
   ],
-  secret: process.env.PAYLOAD_SECRET || '',
+  secret: payloadSecret,
   sharp,
   typescript: { outputFile: path.resolve(dirname, 'payload-types.ts') },
 })

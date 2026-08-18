@@ -20,6 +20,11 @@ export const createContentCollection = (
     },
     { name: 'summary', type: 'textarea' },
     { name: 'content', type: 'richText' },
+    {
+      name: 'legacyHtml',
+      type: 'textarea',
+      admin: { description: 'Sanitized legacy HTML retained during migration.' },
+    },
     { name: 'featuredImage', type: 'upload', relationTo: 'media' },
     { name: 'gallery', type: 'upload', relationTo: 'media', hasMany: true },
     { name: 'publishedAt', type: 'date', index: true },
@@ -28,4 +33,3 @@ export const createContentCollection = (
     ...legacyFields,
   ],
 })
-
