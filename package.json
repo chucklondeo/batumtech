@@ -9,6 +9,8 @@
     "generate:importmap": "payload generate:importmap",
     "generate:types": "payload generate:types",
     "lint": "next lint",
+    "migrate:media": "node scripts/mirror-legacy-media.mjs",
+    "verify:media": "node scripts/verify-legacy-media.mjs",
     "payload": "payload",
     "seo:audit": "node scripts/seo-audit.mjs",
     "seo:submit:baidu": "node scripts/submit-baidu.mjs",

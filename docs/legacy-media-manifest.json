@@ -1,0 +1,221 @@
+{
+  "generatedAt": "2026-08-18T05:00:38.732Z",
+  "legacyOrigin": "https://batumtech.com",
+  "pagesScanned": 179,
+  "pageErrors": [
+    {
+      "url": "https://batumtech.com/www.batumtech.com",
+      "error": "https://batumtech.com/www.batumtech.com: HTTP 404"
+    },
+    {
+      "url": "https://batumtech.com/www.magneticchina.cn",
+      "error": "https://batumtech.com/www.magneticchina.cn: HTTP 404"
+    }
+  ],
+  "assets": [
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/editors/20260118/2026011819321486370.png",
+      "publicPath": "/uploadfile/editors/20260118/2026011819321486370.png",
+      "bytes": 102510,
+      "sha256": "82049049f377ad3ffcb416ed6c9835c30f4396057ecb2d50f730c5f80a4a3461",
+      "contentType": "image/png",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/editors/20260118/2026011819322570239.png",
+      "publicPath": "/uploadfile/editors/20260118/2026011819322570239.png",
+      "bytes": 141097,
+      "sha256": "a9951793102083683baa6d32fe73d5327f3011b34a5521bf241511bfaab90cd6",
+      "contentType": "image/png",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/editors/20251222/2025122216094631006.png",
+      "publicPath": "/uploadfile/editors/20251222/2025122216094631006.png",
+      "bytes": 171720,
+      "sha256": "26dc710957459ad349cba339f7d3a6ad63197d24edd7ca294adceedba21306ad",
+      "contentType": "image/png",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/editors/20260118/2026011819315650665.png",
+      "publicPath": "/uploadfile/editors/20260118/2026011819315650665.png",
+      "bytes": 152756,
+      "sha256": "d976558e752fc6f3196d6526ff1c650a5eaa16833711cfbbd135e24e21dcaad4",
+      "contentType": "image/png",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/editors/20251222/2025122216123952456.png",
+      "publicPath": "/uploadfile/editors/20251222/2025122216123952456.png",
+      "bytes": 1358498,
+      "sha256": "0c235caae62e4b76751173e5b8a8258976e8337a498fa2affdbf65256d9a21b1",
+      "contentType": "image/png",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/editors/20250218/2025021822565335952.png",
+      "publicPath": "/uploadfile/editors/20250218/2025021822565335952.png",
+      "bytes": 611313,
+      "sha256": "2bffb7332e2c09d367dde368391666b7a84c5d9e220e6ff9091ae878cffbe410",
+      "contentType": "image/png",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/202003191359195e730a3724447.jpg",
+      "publicPath": "/uploadfile/upfiles/202003191359195e730a3724447.jpg",
+      "bytes": 100886,
+      "sha256": "237e39be798aff08210c6391404a43580199b4398281cf19d84053117dad03a0",
+      "contentType": "image/jpeg",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/202005061317085eb24854e374d.jpg",
+      "publicPath": "/uploadfile/upfiles/202005061317085eb24854e374d.jpg",
+      "bytes": 4101,
+      "sha256": "18fc007ab1733a38e1f71d9daad02bbf0caafdbabd34cb3c375f9d22169f6c02",
+      "contentType": "image/jpeg",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/202003191359425e730a4eece12.jpg",
+      "publicPath": "/uploadfile/upfiles/202003191359425e730a4eece12.jpg",
+      "bytes": 100886,
+      "sha256": "237e39be798aff08210c6391404a43580199b4398281cf19d84053117dad03a0",
+      "contentType": "image/jpeg",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/202004261054365ea4f7ec5ece3.jpg",
+      "publicPath": "/uploadfile/upfiles/202004261054365ea4f7ec5ece3.jpg",
+      "bytes": 57913,
+      "sha256": "368b8f55b2d35da9a9b00d2d7f8cbb24e1c56aa3b5e98abba5e6c3d06d81e737",
+      "contentType": "image/jpeg",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/201909101020375d7708754133a.png",
+      "publicPath": "/uploadfile/upfiles/201909101020375d7708754133a.png",
+      "bytes": 38810,
+      "sha256": "626f44c1ecedfb4bdcd3e988b5afc51641065b171f4444e9aed1b005ad34bce4",
+      "contentType": "image/png",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/20240325130820660106c48809c.jpg",
+      "publicPath": "/uploadfile/upfiles/20240325130820660106c48809c.jpg",
+      "bytes": 100927,
+      "sha256": "b653811299345855211dcab79c82fc948f44e0462636e14dd425681c9cef06d3",
+      "contentType": "image/jpeg",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/2025021723201067b353aac86e0.png",
+      "publicPath": "/uploadfile/upfiles/2025021723201067b353aac86e0.png",
+      "bytes": 45206,
+      "sha256": "eff8c885a2dd58fe653455ddfc878c99f9b7858ba3b7aad6024a3c44499f4869",
+      "contentType": "image/png",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/2025021822585867b4a03298c0a.png",
+      "publicPath": "/uploadfile/upfiles/2025021822585867b4a03298c0a.png",
+      "bytes": 211005,
+      "sha256": "297a4868a939ed3e63faf58e941859d6ab3125aad7bf6bc3a5cb45936d1bba68",
+      "contentType": "image/png",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/2025021723154767b352a379d91.png",
+      "publicPath": "/uploadfile/upfiles/2025021723154767b352a379d91.png",
+      "bytes": 265492,
+      "sha256": "8658d8693aa7d0ddfaaa548f330dda049c0d57d93e18dcc615cb94cc14eefc1b",
+      "contentType": "image/png",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/2025021709293467b290fef19f7.png",
+      "publicPath": "/uploadfile/upfiles/2025021709293467b290fef19f7.png",
+      "bytes": 259029,
+      "sha256": "c7cdb6422f68e2fdda57fcaedc175ddbfef53281f93f03a21a74a2f224f10bff",
+      "contentType": "image/png",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/2025021722221667b34618eb15b.png",
+      "publicPath": "/uploadfile/upfiles/2025021722221667b34618eb15b.png",
+      "status": "downloaded",
+      "bytes": 575731,
+      "sha256": "97f0fae46ce292dce5ddff50efce1f96c4959ce5c56c5946b0300ae54ed62b5b"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/20251212102520693b7d1064084.png",
+      "publicPath": "/uploadfile/upfiles/20251212102520693b7d1064084.png",
+      "status": "downloaded",
+      "bytes": 610292,
+      "sha256": "e80ed98a94b477cd872f6d46913e60a251a53f3d45a67e0d7203ba443ae87ed4"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/20260106221300695d186ce5f49.png",
+      "publicPath": "/uploadfile/upfiles/20260106221300695d186ce5f49.png",
+      "bytes": 65966,
+      "sha256": "43c93ddeb6287abf0ef226865b3c26cb00af8e5850fa31ac00bb3b9ce453f5f3",
+      "contentType": "image/png",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/20251222164733694905a54be3a.png",
+      "publicPath": "/uploadfile/upfiles/20251222164733694905a54be3a.png",
+      "bytes": 579885,
+      "sha256": "efd6e7a10fb635cd2d5e3224bb9cd22ba5e4c9f01fdc111abd628652ffa642ae",
+      "contentType": "image/png",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/20251212105956693b852c9094f.png",
+      "publicPath": "/uploadfile/upfiles/20251212105956693b852c9094f.png",
+      "bytes": 300556,
+      "sha256": "06ca7ca37941172d26ec9ee36b5822e52ea84dfaba2e48992af0ae44628aac2a",
+      "contentType": "image/png",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/20260106215726695d14c683e38.png",
+      "publicPath": "/uploadfile/upfiles/20260106215726695d14c683e38.png",
+      "bytes": 310202,
+      "sha256": "e5b0e45b9709266f3c6c747ec6cd2d03e73c3e7ead1e57a5d49f3a98371b5459",
+      "contentType": "image/png",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/202512221641326949043c610ac.png",
+      "publicPath": "/uploadfile/upfiles/202512221641326949043c610ac.png",
+      "bytes": 579885,
+      "sha256": "efd6e7a10fb635cd2d5e3224bb9cd22ba5e4c9f01fdc111abd628652ffa642ae",
+      "contentType": "image/png",
+      "status": "downloaded"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/20260106220150695d15ce7260e.png",
+      "publicPath": "/uploadfile/upfiles/20260106220150695d15ce7260e.png",
+      "status": "downloaded",
+      "bytes": 228669,
+      "sha256": "1adca5b1875b5248f1ec1519765ca15856914c9aa41f982802a50e623e5d8830"
+    },
+    {
+      "sourceUrl": "https://batumtech.com/uploadfile/upfiles/20260108220550695fb9be7a8dd.png",
+      "publicPath": "/uploadfile/upfiles/20260108220550695fb9be7a8dd.png",
+      "bytes": 85950,
+      "sha256": "d7e8b3618522eee322698604c9ef7e644cfae546e5d03f480b0acb74078a2c84",
+      "contentType": "image/png",
+      "status": "downloaded"
+    }
+  ],
+  "totals": {
+    "discovered": 25,
+    "downloaded": 25,
+    "failed": 0,
+    "bytes": 7059285
+  },
+  "verifiedAt": "2026-08-18T05:02:51.835Z"
+}
