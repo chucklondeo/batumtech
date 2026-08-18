@@ -39,7 +39,8 @@ export default buildConfig({
   collections: [Users, Tenants, Media, Categories, Products, News, Cases, SiteSettings, Redirects],
   db: postgresAdapter({
     pool: { connectionString: databaseUrl },
-    push: runtimeEnv('PAYLOAD_DB_PUSH').toLowerCase() === 'true',
+    // One-time bootstrap for the new, empty Supabase database. Disable after schema verification.
+    push: true,
   }),
   editor: lexicalEditor(),
   plugins: [
