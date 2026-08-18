@@ -3,8 +3,20 @@ import { databaseEnvNames, runtimeDatabaseUrl, runtimeEnv } from '@/lib/runtimeE
 
 export const dynamic = 'force-dynamic'
 
+const errorMessages = (error: unknown) => {
+  const messages: string[] = []
+  let current: unknown = error
+  for (let depth = 0; current && depth < 5; depth += 1) {
+    messages.push(current instanceof Error ? current.message : String(current))
+    current = typeof current === 'object' && current && 'cause' in current
+      ? (current as { cause?: unknown }).cause
+      : null
+  }
+  return messages
+}
+
 const classifyDatabaseError = (error: unknown) => {
-  const message = error instanceof Error ? error.message : String(error)
+  const message = errorMessages(error).join('\n')
 
   if (/missing secret key|secret key is needed/i.test(message)) return 'PAYLOAD_SECRET_MISSING'
   if (/password authentication failed|authentication failed/i.test(message)) return 'DATABASE_AUTH_FAILED'
@@ -22,8 +34,8 @@ const classifyDatabaseError = (error: unknown) => {
 }
 
 const safeErrorSummary = (error: unknown) => {
-  const message = error instanceof Error ? error.message : String(error)
-  return message
+  return errorMessages(error)
+    .join(' | Caused by: ')
     .replace(/postgres(?:ql)?:\/\/[^\s"']+/gi, '[DATABASE_URL_REDACTED]')
     .replace(/password\s*[=:]\s*[^\s,;]+/gi, 'password=[REDACTED]')
     .slice(0, 500)
