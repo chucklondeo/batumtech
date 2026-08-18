@@ -15,19 +15,20 @@ import { Redirects } from './collections/Redirects'
 import { SiteSettings } from './collections/SiteSettings'
 import { Tenants } from './collections/Tenants'
 import { Users } from './collections/Users'
+import { runtimeEnv } from './lib/runtimeEnv'
 import { importLegacyContent } from './migrations/importLegacyContent'
 
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
-const databaseUrl = process.env.DATABASE_URL || ''
-const payloadSecret = process.env.PAYLOAD_SECRET || (databaseUrl
+const databaseUrl = runtimeEnv('DATABASE_URL')
+const payloadSecret = runtimeEnv('PAYLOAD_SECRET') || (databaseUrl
   ? createHash('sha256').update(`batumtech-payload:${databaseUrl}`).digest('hex')
   : '')
 
 export default buildConfig({
   admin: { user: Users.slug },
   onInit: async (payload) => {
-    if (process.env.AUTO_MIGRATE_LEGACY === 'false') return
+    if (runtimeEnv('AUTO_MIGRATE_LEGACY').toLowerCase() === 'false') return
     try {
       await importLegacyContent(payload)
       payload.logger.info('Legacy Batumtech content is synchronized.')
@@ -38,7 +39,7 @@ export default buildConfig({
   collections: [Users, Tenants, Media, Categories, Products, News, Cases, SiteSettings, Redirects],
   db: postgresAdapter({
     pool: { connectionString: databaseUrl },
-    push: process.env.PAYLOAD_DB_PUSH === 'true',
+    push: runtimeEnv('PAYLOAD_DB_PUSH').toLowerCase() === 'true',
   }),
   editor: lexicalEditor(),
   plugins: [

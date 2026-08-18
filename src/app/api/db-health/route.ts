@@ -1,4 +1,5 @@
 import { NextResponse } from 'next/server'
+import { runtimeEnv } from '@/lib/runtimeEnv'
 
 export const dynamic = 'force-dynamic'
 
@@ -19,8 +20,9 @@ const classifyDatabaseError = (error: unknown) => {
 
 export async function GET() {
   const environment = {
-    databaseUrlConfigured: Boolean(process.env.DATABASE_URL),
-    payloadSecretConfigured: Boolean(process.env.PAYLOAD_SECRET),
+    databaseUrlConfigured: Boolean(runtimeEnv('DATABASE_URL')),
+    payloadSecretConfigured: Boolean(runtimeEnv('PAYLOAD_SECRET')),
+    databasePushEnabled: runtimeEnv('PAYLOAD_DB_PUSH').toLowerCase() === 'true',
   }
   try {
     const [{ default: config }, { getPayload }] = await Promise.all([
