@@ -18,12 +18,31 @@ const classifyDatabaseError = (error: unknown) => {
   return 'DATABASE_UNKNOWN_ERROR'
 }
 
+const inspectDatabaseUrl = (value: string) => {
+  if (!value) return { valid: false, issue: 'MISSING' }
+  if (/YOUR[-_ ]?PASSWORD|\[.+?\]|Supabase Session Pooler URI/i.test(value)) {
+    return { valid: false, issue: 'PLACEHOLDER_NOT_REPLACED' }
+  }
+  if (!/^postgres(?:ql)?:\/\//i.test(value)) return { valid: false, issue: 'INVALID_PROTOCOL' }
+  try {
+    const parsed = new URL(value)
+    if (!parsed.hostname) return { valid: false, issue: 'HOST_MISSING' }
+    if (!parsed.username) return { valid: false, issue: 'USERNAME_MISSING' }
+    if (!parsed.password) return { valid: false, issue: 'PASSWORD_MISSING' }
+    return { valid: true, issue: null, host: parsed.hostname, port: parsed.port || '5432' }
+  } catch {
+    return { valid: false, issue: 'MALFORMED_OR_PASSWORD_NOT_URL_ENCODED' }
+  }
+}
+
 export async function GET() {
+  const databaseUrl = runtimeDatabaseUrl()
   const environment = {
-    databaseUrlConfigured: Boolean(runtimeDatabaseUrl()),
+    databaseUrlConfigured: Boolean(databaseUrl),
     detectedDatabaseVariable: databaseEnvNames.find((name) => Boolean(runtimeEnv(name))) || null,
     payloadSecretConfigured: Boolean(runtimeEnv('PAYLOAD_SECRET')),
     databasePushEnabled: runtimeEnv('PAYLOAD_DB_PUSH').toLowerCase() === 'true',
+    databaseUrlFormat: inspectDatabaseUrl(databaseUrl),
   }
   try {
     const [{ default: config }, { getPayload }] = await Promise.all([
