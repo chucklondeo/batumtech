@@ -13,9 +13,20 @@ const classifyDatabaseError = (error: unknown) => {
   if (/ETIMEDOUT|timeout|timed out/i.test(message)) return 'DATABASE_CONNECTION_TIMEOUT'
   if (/self[- ]signed|certificate|SSL|TLS/i.test(message)) return 'DATABASE_SSL_FAILED'
   if (/relation .* does not exist|undefined table/i.test(message)) return 'DATABASE_SCHEMA_MISSING'
+  if (/permission denied|insufficient privilege/i.test(message)) return 'DATABASE_PERMISSION_DENIED'
+  if (/prepared statement|transaction pool/i.test(message)) return 'DATABASE_POOL_MODE_ERROR'
+  if (/tenant|multi.?tenant/i.test(message)) return 'PAYLOAD_TENANT_INITIALIZATION_FAILED'
   if (/connection string|DATABASE_URL|invalid url/i.test(message)) return 'DATABASE_URL_INVALID'
 
   return 'DATABASE_UNKNOWN_ERROR'
+}
+
+const safeErrorSummary = (error: unknown) => {
+  const message = error instanceof Error ? error.message : String(error)
+  return message
+    .replace(/postgres(?:ql)?:\/\/[^\s"']+/gi, '[DATABASE_URL_REDACTED]')
+    .replace(/password\s*[=:]\s*[^\s,;]+/gi, 'password=[REDACTED]')
+    .slice(0, 500)
 }
 
 const inspectDatabaseUrl = (value: string) => {
@@ -58,7 +69,7 @@ export async function GET() {
     console.error(`[db-health] ${code}`)
 
     return NextResponse.json(
-      { status: 'error', database: 'unavailable', code, environment },
+      { status: 'error', database: 'unavailable', code, detail: safeErrorSummary(error), environment },
       { status: 503, headers: { 'cache-control': 'no-store' } },
     )
   }
