@@ -15,6 +15,7 @@ import { Redirects } from './collections/Redirects'
 import { SiteSettings } from './collections/SiteSettings'
 import { Tenants } from './collections/Tenants'
 import { Users } from './collections/Users'
+import { importLegacyContent } from './migrations/importLegacyContent'
 
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
@@ -25,6 +26,15 @@ const payloadSecret = process.env.PAYLOAD_SECRET || (databaseUrl
 
 export default buildConfig({
   admin: { user: Users.slug },
+  onInit: async (payload) => {
+    if (process.env.AUTO_MIGRATE_LEGACY === 'false') return
+    try {
+      await importLegacyContent(payload)
+      payload.logger.info('Legacy Batumtech content is synchronized.')
+    } catch (error) {
+      payload.logger.error({ err: error, msg: 'Legacy content synchronization failed.' })
+    }
+  },
   collections: [Users, Tenants, Media, Categories, Products, News, Cases, SiteSettings, Redirects],
   db: postgresAdapter({
     pool: { connectionString: databaseUrl },
