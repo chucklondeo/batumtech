@@ -1,6 +1,4 @@
-import config from '@payload-config'
 import { NextResponse } from 'next/server'
-import { getPayload } from 'payload'
 
 export const dynamic = 'force-dynamic'
 
@@ -21,6 +19,10 @@ const classifyDatabaseError = (error: unknown) => {
 
 export async function GET() {
   try {
+    const [{ default: config }, { getPayload }] = await Promise.all([
+      import('@payload-config'),
+      import('payload'),
+    ])
     const payload = await getPayload({ config })
     await payload.count({ collection: 'users' })
 
