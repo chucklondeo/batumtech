@@ -5,9 +5,8 @@ export const Media: CollectionConfig = {
   upload: { staticDir: 'media', mimeTypes: ['image/*'] },
   admin: { useAsTitle: 'filename' },
   fields: [
-    { name: 'alt', type: 'text' },
+    { name: 'alt', type: 'text', localized: true },
     { name: 'legacyPath', type: 'text', index: true },
     { name: 'sourceHash', type: 'text', index: true },
   ],
 }
-

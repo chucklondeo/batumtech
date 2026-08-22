@@ -5,13 +5,12 @@ export const SiteSettings: CollectionConfig = {
   slug: 'site-settings',
   admin: { useAsTitle: 'siteName' },
   fields: [
-    { name: 'siteName', type: 'text', required: true },
-    { name: 'companyName', type: 'text' },
+    { name: 'siteName', type: 'text', required: true, localized: true },
+    { name: 'companyName', type: 'text', localized: true },
     { name: 'phone', type: 'text' },
     { name: 'email', type: 'email' },
-    { name: 'address', type: 'textarea' },
+    { name: 'address', type: 'textarea', localized: true },
     { name: 'legacyConfig', type: 'json', admin: { description: 'Auditable copy of mapped web_config values.' } },
     seoFields,
   ],
 }
-

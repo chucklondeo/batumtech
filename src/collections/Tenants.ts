@@ -8,8 +8,15 @@ export const Tenants: CollectionConfig = {
     { name: 'code', type: 'text', required: true, unique: true, index: true },
     { name: 'domain', type: 'text', required: true, unique: true, index: true },
     { name: 'defaultLocale', type: 'select', required: true, defaultValue: 'zh-CN', options: ['zh-CN', 'zh-HK', 'en-SG'] },
+    {
+      name: 'supportedLocales',
+      type: 'select',
+      hasMany: true,
+      required: true,
+      defaultValue: ['zh-CN'],
+      options: ['zh-CN', 'zh-HK', 'en-SG'],
+    },
     { name: 'timezone', type: 'text', required: true, defaultValue: 'Asia/Shanghai' },
     { name: 'enabled', type: 'checkbox', required: true, defaultValue: true },
   ],
 }
-

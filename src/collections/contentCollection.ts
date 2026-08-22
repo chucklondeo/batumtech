@@ -10,16 +10,16 @@ export const createContentCollection = (
   admin: { useAsTitle: 'title' },
   versions: { drafts: true },
   fields: [
-    { name: 'title', type: 'text', required: true },
-    { name: 'slug', type: 'text', required: true, index: true },
+    { name: 'title', type: 'text', required: true, localized: true },
+    { name: 'slug', type: 'text', required: true, index: true, localized: true },
     {
       name: 'category',
       type: 'relationship',
       relationTo: 'categories',
       filterOptions: { contentType: { equals: categoryType } },
     },
-    { name: 'summary', type: 'textarea' },
-    { name: 'content', type: 'richText' },
+    { name: 'summary', type: 'textarea', localized: true },
+    { name: 'content', type: 'richText', localized: true },
     {
       name: 'legacyHtml',
       type: 'textarea',

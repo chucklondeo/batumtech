@@ -21,7 +21,7 @@ export async function importLegacyContent(payload: Payload) {
       overrideAccess: true,
       data: {
         name: 'Batumtech China', code: 'batumtech-cn', domain: 'batumtech.com',
-        defaultLocale: 'zh-CN', timezone: 'Asia/Shanghai', enabled: true,
+        defaultLocale: 'zh-CN', supportedLocales: ['zh-CN'], timezone: 'Asia/Shanghai', enabled: true,
       },
     })
 

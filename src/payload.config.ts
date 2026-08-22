@@ -67,6 +67,15 @@ export default buildConfig({
     }
   },
   collections: [Users, Tenants, Media, Categories, Products, News, Cases, SiteSettings, Redirects],
+  localization: {
+    locales: [
+      { code: 'zh-CN', label: '简体中文' },
+      { code: 'zh-HK', label: '繁體中文（香港）', fallbackLocale: 'zh-CN' },
+      { code: 'en-SG', label: 'English (Singapore)', fallbackLocale: 'zh-CN' },
+    ],
+    defaultLocale: 'zh-CN',
+    fallback: true,
+  },
   db: postgresAdapter({
     pool: { connectionString: databaseUrl },
     // Payload ignores push mode in production. Production bootstrap is guarded in onInit above.

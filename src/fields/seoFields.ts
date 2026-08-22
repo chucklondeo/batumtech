@@ -3,6 +3,7 @@ import type { Field } from 'payload'
 export const seoFields: Field = {
   name: 'seo',
   type: 'group',
+  localized: true,
   fields: [
     { name: 'title', type: 'text' },
     { name: 'description', type: 'textarea', maxLength: 320 },
@@ -11,4 +12,3 @@ export const seoFields: Field = {
     { name: 'image', type: 'upload', relationTo: 'media' },
   ],
 }
-
