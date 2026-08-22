@@ -3,7 +3,6 @@ import { pushDevSchema, type DrizzleAdapter } from '@payloadcms/drizzle'
 import { multiTenantPlugin } from '@payloadcms/plugin-multi-tenant'
 import { lexicalEditor } from '@payloadcms/richtext-lexical'
 import { createHash } from 'node:crypto'
-import { generateDrizzleJson, generateMigration, pushSchema, upPgSnapshot } from 'drizzle-kit/api'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { buildConfig } from 'payload'
@@ -54,16 +53,7 @@ export default buildConfig({
         if (!/relation .*users.* does not exist|undefined table/i.test(message)) throw error
 
         payload.logger.info('Payload schema is missing; starting one-time database bootstrap.')
-        const adapter = payload.db as DrizzleAdapter
-        // Payload resolves drizzle-kit through a dynamic require. Next.js standalone tracing cannot
-        // reliably detect that dependency, so bind the statically imported production implementation.
-        adapter.requireDrizzleKit = () => ({
-          generateDrizzleJson,
-          generateMigration,
-          pushSchema,
-          upSnapshot: upPgSnapshot,
-        })
-        await pushDevSchema(adapter)
+        await pushDevSchema(payload.db as DrizzleAdapter)
         payload.logger.info('Payload database schema bootstrap completed.')
       }
     }
