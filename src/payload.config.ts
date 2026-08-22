@@ -26,6 +26,18 @@ const payloadSecret = runtimeEnv('PAYLOAD_SECRET') || (databaseUrl
   ? createHash('sha256').update(`batumtech-payload:${databaseUrl}`).digest('hex')
   : '')
 
+const errorChainMessage = (error: unknown) => {
+  const messages: string[] = []
+  let current: unknown = error
+  for (let depth = 0; current && depth < 5; depth += 1) {
+    messages.push(current instanceof Error ? current.message : String(current))
+    current = typeof current === 'object' && current && 'cause' in current
+      ? (current as { cause?: unknown }).cause
+      : null
+  }
+  return messages.join('\n')
+}
+
 export default buildConfig({
   admin: { user: Users.slug },
   onInit: async (payload) => {
@@ -37,7 +49,7 @@ export default buildConfig({
       try {
         await payload.count({ collection: 'users' })
       } catch (error) {
-        const message = error instanceof Error ? error.message : String(error)
+        const message = errorChainMessage(error)
         if (!/relation .*users.* does not exist|undefined table/i.test(message)) throw error
 
         payload.logger.info('Payload schema is missing; starting one-time database bootstrap.')
