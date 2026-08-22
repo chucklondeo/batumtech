@@ -4,6 +4,8 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+packageExtensionsChecksum: sha256-Rpo4l75gKl07Wr6/f1oHyc2rDNugGYacXdAxVz8EbBE=
+
 importers:
 
   .:
@@ -13,7 +15,7 @@ importers:
         version: 3.88.0(payload@3.88.0(graphql@16.14.2)(supports-color@7.2.0)(typescript@5.9.3))(supports-color@7.2.0)
       '@payloadcms/drizzle':
         specifier: 3.88.0
-        version: 3.88.0(@types/pg@8.20.0)(payload@3.88.0(graphql@16.14.2)(supports-color@7.2.0)(typescript@5.9.3))(pg@8.20.0)
+        version: 3.88.0(@types/pg@8.20.0)(payload@3.88.0(graphql@16.14.2)(supports-color@7.2.0)(typescript@5.9.3))(pg@8.20.0)(supports-color@7.2.0)
       '@payloadcms/next':
         specifier: 3.88.0
         version: 3.88.0(@types/react@19.2.18)(graphql@16.14.2)(monaco-editor@0.56.0)(next@15.4.11(babel-plugin-macros@3.1.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(sass@1.77.4))(payload@3.88.0(graphql@16.14.2)(supports-color@7.2.0)(typescript@5.9.3))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(supports-color@7.2.0)(typescript@5.9.3)
@@ -2010,6 +2012,7 @@ packages:
   eslint@9.39.5:
     resolution: {integrity: sha512-DgZS62aPLXKlnxILS/AYCoRvHaZeXceIzlXPkkGGzJWSow1aEk0lbTlxUSlyjC8jcaKxAdOnTDz+o1JFSBsyjw==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
+    deprecated: This version is no longer supported. Please see https://eslint.org/version-support for other options.
     hasBin: true
     peerDependencies:
       jiti: '*'
@@ -4262,7 +4265,7 @@ snapshots:
 
   '@payloadcms/db-postgres@3.88.0(payload@3.88.0(graphql@16.14.2)(supports-color@7.2.0)(typescript@5.9.3))(supports-color@7.2.0)':
     dependencies:
-      '@payloadcms/drizzle': 3.88.0(@types/pg@8.20.0)(payload@3.88.0(graphql@16.14.2)(supports-color@7.2.0)(typescript@5.9.3))(pg@8.20.0)
+      '@payloadcms/drizzle': 3.88.0(@types/pg@8.20.0)(payload@3.88.0(graphql@16.14.2)(supports-color@7.2.0)(typescript@5.9.3))(pg@8.20.0)(supports-color@7.2.0)
       '@types/pg': 8.20.0
       console-table-printer: 2.12.1
       drizzle-kit: 0.31.7(supports-color@7.2.0)
@@ -4303,10 +4306,11 @@ snapshots:
       - sqlite3
       - supports-color
 
-  '@payloadcms/drizzle@3.88.0(@types/pg@8.20.0)(payload@3.88.0(graphql@16.14.2)(supports-color@7.2.0)(typescript@5.9.3))(pg@8.20.0)':
+  '@payloadcms/drizzle@3.88.0(@types/pg@8.20.0)(payload@3.88.0(graphql@16.14.2)(supports-color@7.2.0)(typescript@5.9.3))(pg@8.20.0)(supports-color@7.2.0)':
     dependencies:
       console-table-printer: 2.12.1
       dequal: 2.0.3
+      drizzle-kit: 0.31.7(supports-color@7.2.0)
       drizzle-orm: 0.45.2(@types/pg@8.20.0)(pg@8.20.0)
       payload: 3.88.0(graphql@16.14.2)(supports-color@7.2.0)(typescript@5.9.3)
       prompts: 2.4.2
@@ -4342,6 +4346,7 @@ snapshots:
       - prisma
       - sql.js
       - sqlite3
+      - supports-color
 
   '@payloadcms/graphql@3.88.0(graphql@16.14.2)(payload@3.88.0(graphql@16.14.2)(supports-color@7.2.0)(typescript@5.9.3))(typescript@5.9.3)':
     dependencies:

@@ -7,3 +7,7 @@ allowBuilds:
   esbuild: true
   sharp: true
   unrs-resolver: true
+packageExtensions:
+  '@payloadcms/drizzle@3.88.0':
+    dependencies:
+      drizzle-kit: 0.31.7
