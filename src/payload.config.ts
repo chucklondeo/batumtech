@@ -1,4 +1,5 @@
 import { postgresAdapter } from '@payloadcms/db-postgres'
+import { pushDevSchema, type DrizzleAdapter } from '@payloadcms/drizzle'
 import { multiTenantPlugin } from '@payloadcms/plugin-multi-tenant'
 import { lexicalEditor } from '@payloadcms/richtext-lexical'
 import { createHash } from 'node:crypto'
@@ -28,6 +29,23 @@ const payloadSecret = runtimeEnv('PAYLOAD_SECRET') || (databaseUrl
 export default buildConfig({
   admin: { user: Users.slug },
   onInit: async (payload) => {
+    const bootstrapEnabled = ['true', '1', 'yes'].includes(
+      (runtimeEnv('PAYLOAD_DB_BOOTSTRAP') || runtimeEnv('PAYLOAD_DB_PUSH')).toLowerCase(),
+    )
+
+    if (bootstrapEnabled) {
+      try {
+        await payload.count({ collection: 'users' })
+      } catch (error) {
+        const message = error instanceof Error ? error.message : String(error)
+        if (!/relation .*users.* does not exist|undefined table/i.test(message)) throw error
+
+        payload.logger.info('Payload schema is missing; starting one-time database bootstrap.')
+        await pushDevSchema(payload.db as DrizzleAdapter)
+        payload.logger.info('Payload database schema bootstrap completed.')
+      }
+    }
+
     if (runtimeEnv('AUTO_MIGRATE_LEGACY').toLowerCase() === 'false') return
     try {
       await importLegacyContent(payload)
@@ -39,8 +57,8 @@ export default buildConfig({
   collections: [Users, Tenants, Media, Categories, Products, News, Cases, SiteSettings, Redirects],
   db: postgresAdapter({
     pool: { connectionString: databaseUrl },
-    // One-time bootstrap for the new, empty Supabase database. Disable after schema verification.
-    push: true,
+    // Payload ignores push mode in production. Production bootstrap is guarded in onInit above.
+    push: process.env.NODE_ENV !== 'production',
   }),
   editor: lexicalEditor(),
   plugins: [
